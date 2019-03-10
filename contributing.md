@@ -6,5 +6,6 @@ As this project begins, I could use help with:
 - Code to interact with these symbols: grid sheets, etc.
 - Other access/accessibility concerns (e.g. how could descriptions for screen readers best be incorporated)
 - Suggestions for diverse representation and more specifically representation of Disability culture with regards to music.
+- Context and instructions for use that incorporate lived experience.
 
 More information to follow, but most importantly, get in touch so that we can start a conversation!
