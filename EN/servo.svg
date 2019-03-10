@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-4 -2 5 4" markerWidth="5" markerHeight="4" color="black">
+      <g>
+        <path d="M -2.6666667 0 L 0 1 L 0 -1 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-03-10 04:22:03 +0000</dc:date>
+  </metadata>
+  <g id="Servo" fill="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none" stroke="none">
+    <title>Servo</title>
+    <g id="Servo: Layer 1">
+      <title>Layer 1</title>
+      <g id="Line_11">
+        <path d="M 285.30755 498.70315 C 220.26963 521.931 126.17741 531.2291 90.17428 568.3936 C 54.171144 605.5581 79.71966 690.355 69.26714 721.7126 C 58.81462 753.0702 35.58261 750.7509 27.452868 756.5578 C 19.323128 762.3648 22.806605 756.5578 20.483823 756.5578" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_10">
+        <path d="M 417.7194 498.70315 C 352.6815 521.931 258.58928 531.2291 222.58614 568.3936 C 186.583 605.5581 235.35936 682.2253 201.679 721.7126 C 167.99865 761.1999 28.613562 799.5342 20.483823 805.3411 C 12.354083 811.1481 108.76281 772.8173 152.89569 756.5578" stroke="#ff2c29" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_9">
+        <path d="M 395.72048 478.6799 C 327.00255 511.0045 232.32856 536.78055 189.54609 575.66334 C 146.76362 614.5461 167.25486 679.2805 139 712 C 110.74514 744.7195 59.6627 752.002 20 772" stroke="#ff8a00" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Graphic_8">
+        <path d="M 284.623 496.03764 L 284.623 496.03764 C 286.22965 496.03764 287.5321 497.3401 287.5321 498.94674 L 287.5321 498.94674 C 287.5321 500.5534 286.22965 501.8558 284.623 501.8558 L 284.623 501.8558 C 283.01636 501.8558 281.7139 500.5534 281.7139 498.94674 L 281.7139 498.94674 C 281.7139 497.3401 283.01636 496.03764 284.623 496.03764 Z" fill="#d4dfd7"/>
+        <path d="M 284.623 496.03764 L 284.623 496.03764 C 286.22965 496.03764 287.5321 497.3401 287.5321 498.94674 L 287.5321 498.94674 C 287.5321 500.5534 286.22965 501.8558 284.623 501.8558 L 284.623 501.8558 C 283.01636 501.8558 281.7139 500.5534 281.7139 498.94674 L 281.7139 498.94674 C 281.7139 497.3401 283.01636 496.03764 284.623 496.03764 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_7">
+        <path d="M 361.41263 353.42212 L 734.0096 353.42212 C 778.0825 353.42212 813.8518 423.40134 813.8518 509.6257 C 813.8518 595.8501 778.0825 665.8293 734.0096 665.8293 L 361.41263 665.8293 C 317.33973 665.8293 281.5704 595.8501 281.5704 509.6257 C 281.5704 423.40134 317.33973 353.42212 361.41263 353.42212 Z" fill="#0052ff"/>
+        <path d="M 361.41263 353.42212 L 734.0096 353.42212 C 778.0825 353.42212 813.8518 423.40134 813.8518 509.6257 C 813.8518 595.8501 778.0825 665.8293 734.0096 665.8293 L 361.41263 665.8293 C 317.33973 665.8293 281.5704 595.8501 281.5704 509.6257 C 281.5704 423.40134 317.33973 353.42212 361.41263 353.42212 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Graphic_6">
+        <path d="M 641.9577 107.99648 L 698.5096 140.64674 C 705.1989 144.5088 663.11295 229.94144 604.5678 331.3446 C 546.0227 432.74776 493.0788 511.91156 486.3895 508.0495 L 429.8376 475.39924 C 423.14833 471.5372 465.23424 386.10454 523.7794 284.70138 C 582.3245 183.29822 635.2684 104.13442 641.9577 107.99648 Z" fill="#f7fdff"/>
+        <path d="M 641.9577 107.99648 L 698.5096 140.64674 C 705.1989 144.5088 663.11295 229.94144 604.5678 331.3446 C 546.0227 432.74776 493.0788 511.91156 486.3895 508.0495 L 429.8376 475.39924 C 423.14833 471.5372 465.23424 386.10454 523.7794 284.70138 C 582.3245 183.29822 635.2684 104.13442 641.9577 107.99648 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Graphic_5">
+        <ellipse cx="448.32376" cy="509.6254" rx="100.904259022067" ry="106.683324442129" fill="#f7fdff"/>
+        <ellipse cx="448.32376" cy="509.6254" rx="100.904259022067" ry="106.683324442129" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Graphic_4">
+        <ellipse cx="640.0552" cy="172.20756" rx="22.2551154404024" ry="23.5297273280235" fill="#f7fdff"/>
+        <ellipse cx="640.0552" cy="172.20756" rx="22.2551154404024" ry="23.5297273280235" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Graphic_3">
+        <ellipse cx="600.05176" cy="245.90385" rx="22.2551154404024" ry="23.5297273280235" fill="#f7fdff"/>
+        <ellipse cx="600.05176" cy="245.90385" rx="22.2551154404024" ry="23.5297273280235" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Line_2">
+        <path d="M 224.59907 325.78177 C 262.833 284.48018 305.31917 235.25497 333.75025 212.2313 C 366.49876 185.71133 376.2698 184.7941 404.04993 184.7941 C 431.83006 184.7941 484.383 207.65889 500.4477 212.2313 L 500.4477 212.2313" marker-start="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+    </g>
+  </g>
+</svg>
