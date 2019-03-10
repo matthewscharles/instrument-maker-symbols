@@ -49,6 +49,11 @@ Some of these can probably be borrowed from more generic symbol sets:
 - mi:mu gloves
   - mini:mu gloves
 
+### Studio/controls
+
+- mixer
+- controller
+
 ## Effects
 
 - reverb
@@ -56,6 +61,31 @@ Some of these can probably be borrowed from more generic symbol sets:
 - echo
 - delay
 - feedback
+
+## Waves
+
+- sine
+- square
+- sawtooth
+- noise
+  - white noise
+  - pink noise
+- brainwaves
+- binaural beats
+
+## Misc/media
+
+- radio
+- tape
+- record
+
+## Transport
+
+- play
+- stop
+- pause
+- rewind
+- fast forward
 
 ## Crip the dataflow
 
@@ -97,15 +127,20 @@ Some of these can probably be borrowed from more generic symbol sets:
 - USB
 - banana plug
 - sensor
+- arcade button
+- flex sensor
+- soft pot
 - actuator
 - LDR
 - LED
 - solder
   - cold solder
-- electric paint
+- electric/conductive paint
+- conductive thread
 - Raspberry Pi
 - Bela
 - Arduino
+- LilyPad
 - Touch Board
 - Circuit Playground
 
@@ -114,4 +149,14 @@ Some of these can probably be borrowed from more generic symbol sets:
 - potentiometer
 - dial
 - fader
+
+### Wider making 
+
+- 3D print
+
+- papercraft
+
+  
+
+  
 

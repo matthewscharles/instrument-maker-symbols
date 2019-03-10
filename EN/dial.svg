@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="black">
+      <g>
+        <path d="M 2.0571429 0 L 0 -.7714286 L 0 .7714286 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-03-10 22:22:43 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_25" fill="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none" stroke="none">
+    <title>Canvas 25</title>
+    <g id="Canvas_25: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_3">
+        <path d="M 320.37358 713.5314 L 203.1634 361.14717 C 190.19434 338.68408 200.0759 294.65724 312.39135 229.81189 C 424.7068 164.96653 438.8534 184.34082 451.8225 206.8039 L 727.3136 478.58445 C 740.2827 501.04754 680.8115 599.2173 568.4961 664.06264 C 456.18063 728.908 333.34265 735.9945 320.37358 713.5314 Z" fill="#dadada"/>
+        <path d="M 320.37358 713.5314 L 203.1634 361.14717 C 190.19434 338.68408 200.0759 294.65724 312.39135 229.81189 C 424.7068 164.96653 438.8534 184.34082 451.8225 206.8039 L 727.3136 478.58445 C 740.2827 501.04754 680.8115 599.2173 568.4961 664.06264 C 456.18063 728.908 333.34265 735.9945 320.37358 713.5314 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"/>
+      </g>
+      <g id="Graphic_2">
+        <path d="M 375.67324 154.81789 C 438.4658 148.7348 459.64686 185.42145 422.98246 236.75987 C 386.3184 288.09825 305.69306 334.6473 242.90067 340.73014 C 180.1081 346.81323 158.92705 310.12657 195.59145 258.78816 C 232.25553 207.44977 312.88085 160.90072 375.67324 154.81789" fill="#666"/>
+        <path d="M 375.67324 154.81789 C 438.4658 148.7348 459.64686 185.42145 422.98246 236.75987 C 386.3184 288.09825 305.69306 334.6473 242.90067 340.73014 C 180.1081 346.81323 158.92705 310.12657 195.59145 258.78816 C 232.25553 207.44977 312.88085 160.90072 375.67324 154.81789" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"/>
+      </g>
+      <g id="Line_5">
+        <line x1="192" y1="322.68594" x2="286.5193" y2="243" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
+      </g>
+      <g id="Line_6">
+        <path d="M 176.86834 394.87335 C 176.86834 394.87335 113.25505 350.2655 129.09077 282.3582 C 144.92649 214.45086 151.73186 210.37244 232.7647 155.17647 C 313.79755 99.9805 347.88593 103.36116 415.11765 87.52941 C 482.34937 71.69766 444.8394 85.29405 470.07686 99.29412 C 495.3143 113.29419 494.7727 105.28287 504.19995 136.94637 C 506.60465 145.02304 507.72746 153.80146 508.0659 162.39812" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="14.0,56.0" stroke-width="14"/>
+      </g>
+    </g>
+  </g>
+</svg>

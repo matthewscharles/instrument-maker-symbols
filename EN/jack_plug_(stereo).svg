@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
-  <defs/>
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="#7800ff">
+      <g>
+        <path d="M 2.311111 0 L 0 -.8666667 L 0 .8666667 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
   <metadata> Produced by OmniGraffle 7.9.4 
-    <dc:date>2019-03-10 11:11:29 +0000</dc:date>
+    <dc:date>2019-03-10 22:03:36 +0000</dc:date>
   </metadata>
-  <g id="jack_plug" fill="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none" stroke="none">
-    <title>jack_plug</title>
-    <g id="jack_plug: Layer 1">
+  <g id="jack_plug_stereo_2" fill="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none" stroke="none">
+    <title>jack_plug_stereo 2</title>
+    <g id="jack_plug_stereo_2: Layer 1">
       <title>Layer 1</title>
       <g id="Line_7">
         <path d="M 579 542 C 607.20706 573.0216 639.5481 605.4865 663.6296 635.0741 C 687.7112 664.6616 715.7885 699.792 723.5038 719.5431 C 731.219 739.2942 704.9548 737.7958 709.9259 753.5926 C 714.897 769.3894 738.86564 794.0884 753.3333 814.3333" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="37"/>
@@ -33,13 +39,35 @@
         <path d="M 153.31966 63.744496 L 146.32387 56.7487 C 126.06781 42.02579 116.01915 48.576553 90.67499 56.431235 C 82.82031 81.7754 76.26954 91.82406 90.99246 112.08011 L 97.98825 119.0759 C 107.30558 106.26068 115.3019 115.90439 115.3019 115.90439 L 114.85816 130.49026 C 114.85816 130.49026 124.01675 117.1679 138.35842 101.07729 C 154.44903 86.73563 163.7044 81.64403 163.7044 81.64403 L 149.11852 82.08777 C 149.11852 82.08777 140.50443 73.06183 153.31966 63.744496 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
     </g>
-    <g id="jack_plug: Layer 2">
+    <g id="jack_plug_stereo_2: Layer 2">
       <title>Layer 2</title>
       <g id="Line_12">
         <path d="M 156.54746 177.5865 L 167.78475 159.11973 C 169.3172 156.60136 171.14515 154.27516 173.2297 152.19062 L 189.78318 135.63714 C 192.95559 132.46473 196.67852 129.89574 200.77023 128.05558 L 211.28842 123.32524" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
       </g>
       <g id="Line_13">
         <path d="M 113.78685 132.24615 L 120.44867 117.57726 C 122.28497 113.53384 124.83418 109.85403 127.97434 106.71386 L 140.80883 93.87938 C 145.33569 89.35252 150.95966 86.07769 157.13101 84.37499 L 165.83764 81.97279" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      </g>
+      <g id="Graphic_19">
+        <circle cx="169.15144" cy="708.2222" r="110.151617573765" fill="#4040ff"/>
+        <circle cx="169.15144" cy="708.2222" r="110.151617573765" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_18">
+        <circle cx="169.15144" cy="708.2222" r="84.8663993697726" fill="black"/>
+        <circle cx="169.15144" cy="708.2222" r="84.8663993697726" stroke="#fffc00" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g id="Graphic_17">
+        <circle cx="390.79274" cy="707.1514" r="110.151617573765" fill="#4040ff"/>
+        <circle cx="390.79274" cy="707.1514" r="110.151617573765" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_16">
+        <circle cx="390.79274" cy="707.1514" r="84.8663993697726" fill="black"/>
+        <circle cx="390.79274" cy="707.1514" r="84.8663993697726" stroke="#fffc00" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g id="Line_20">
+        <line x1="159.1852" y1="598.5197" x2="121.61257" y2="184.94278" marker-end="url(#FilledArrow_Marker)" stroke="#7800ff" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="36.0,36.0" stroke-width="9"/>
+      </g>
+      <g id="Line_21">
+        <line x1="360.9697" y1="617.8485" x2="171.13898" y2="219.76612" marker-end="url(#FilledArrow_Marker)" stroke="#7800ff" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="36.0,36.0" stroke-width="9"/>
       </g>
     </g>
   </g>

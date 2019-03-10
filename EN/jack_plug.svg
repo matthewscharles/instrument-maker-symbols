@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
-  <defs>
-    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="#7800ff">
-      <g>
-        <path d="M 2.311111 0 L 0 -.8666667 L 0 .8666667 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
-      </g>
-    </marker>
-  </defs>
+  <defs/>
   <metadata> Produced by OmniGraffle 7.9.4 
-    <dc:date>2019-03-10 22:04:43 +0000</dc:date>
+    <dc:date>2019-03-10 22:03:36 +0000</dc:date>
   </metadata>
   <g id="jack_plug_mono" fill="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none" stroke="none">
     <title>jack_plug_mono</title>
@@ -43,17 +37,6 @@
       <title>Layer 2</title>
       <g id="Line_13">
         <path d="M 113.78685 132.24615 L 120.44867 117.57726 C 122.28497 113.53384 124.83418 109.85403 127.97434 106.71386 L 140.80883 93.87938 C 145.33569 89.35252 150.95966 86.07769 157.13101 84.37499 L 165.83764 81.97279" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
-      </g>
-      <g id="Graphic_18">
-        <circle cx="163.15144" cy="690.2584" r="110.151617573765" fill="#4040ff"/>
-        <circle cx="163.15144" cy="690.2584" r="110.151617573765" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      </g>
-      <g id="Graphic_17">
-        <circle cx="163.15144" cy="690.2584" r="84.8663993697726" fill="black"/>
-        <circle cx="163.15144" cy="690.2584" r="84.8663993697726" stroke="#fffc00" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
-      </g>
-      <g id="Line_16">
-        <line x1="153.1852" y1="580.55594" x2="115.61257" y2="166.979" marker-end="url(#FilledArrow_Marker)" stroke="#7800ff" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="36.0,36.0" stroke-width="9"/>
       </g>
     </g>
   </g>

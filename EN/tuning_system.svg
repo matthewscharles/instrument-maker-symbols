@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-03-10 22:22:43 +0000</dc:date>
+  </metadata>
+  <g id="Tuning" fill="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none" stroke="none">
+    <title>Tuning</title>
+    <g id="Tuning: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_4">
+        <path d="M 594.9468 140.4847 C 757.3277 234.2348 812.9632 441.8694 719.2123 604.2498 C 625.4622 766.6307 417.8276 822.2662 255.4472 728.5153 C 93.06631 634.7652 37.43078 427.1306 131.1817 264.7502 C 224.9318 102.36931 432.5664 46.73378 594.9468 140.4847" fill="#ffc0ff"/>
+        <path d="M 594.9468 140.4847 C 757.3277 234.2348 812.9632 441.8694 719.2123 604.2498 C 625.4622 766.6307 417.8276 822.2662 255.4472 728.5153 C 93.06631 634.7652 37.43078 427.1306 131.1817 264.7502 C 224.9318 102.36931 432.5664 46.73378 594.9468 140.4847" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"/>
+      </g>
+    </g>
+    <g id="Tuning: Layer 2">
+      <title>Layer 2</title>
+      <g id="Graphic_6">
+        <circle cx="422.7892" cy="425.514" r="19.000030360136" fill="white"/>
+        <circle cx="422.7892" cy="425.514" r="19.000030360136" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"/>
+      </g>
+      <g id="Line_7">
+        <line x1="419.1343" y1="397.75213" x2="380.76983" y2="106.34513" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="23"/>
+      </g>
+      <g id="Line_8">
+        <line x1="450.78945" y1="426.03844" x2="757.33" y2="431.77994" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="23"/>
+      </g>
+      <g id="Line_9">
+        <line x1="445.09626" y1="442.4421" x2="691.3556" y2="629.3204" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="23"/>
+      </g>
+      <g id="Line_10">
+        <line x1="427.9528" y1="453.0343" x2="485.39145" y2="759.1647" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="23"/>
+      </g>
+      <g id="Line_11">
+        <line x1="399.43647" y1="410.0641" x2="153.45685" y2="247.3271" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="23"/>
+      </g>
+    </g>
+  </g>
+</svg>

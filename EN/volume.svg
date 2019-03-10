@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-03-10 22:20:17 +0000</dc:date>
+  </metadata>
+  <g id="Volume" fill="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none" stroke="none">
+    <title>Volume</title>
+    <g id="Volume: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_3">
+        <rect x="266.9742" y="93.5" width="17.506098" height="693" fill="black"/>
+        <rect x="266.9742" y="93.5" width="17.506098" height="693" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4">
+        <path d="M 244 306 L 307.4545 306 L 300.53025 401.5 L 307.4545 497 L 244 497 L 250.53025 403.5 Z" fill="#a5a5a5"/>
+        <path d="M 244 306 L 307.4545 306 L 300.53025 401.5 L 307.4545 497 L 244 497 L 250.53025 403.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_6">
+        <path d="M 302.53025 404.12348 L 302.53025 400.6641 L 272.8092 401.62846 L 251.4545 400.6641 L 251.4545 404.12348 Z" fill="black"/>
+        <path d="M 302.53025 404.12348 L 302.53025 400.6641 L 272.8092 401.62846 L 251.4545 400.6641 L 251.4545 404.12348 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_7">
+        <circle cx="526.5" cy="710.5" r="54.5000870856535" fill="#00b600"/>
+        <circle cx="526.5" cy="710.5" r="54.5000870856535" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+      </g>
+      <g id="Graphic_8">
+        <circle cx="526.5" cy="566.2" r="54.5000870856534" fill="lime"/>
+        <circle cx="526.5" cy="566.2" r="54.5000870856534" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+      </g>
+      <g id="Graphic_9">
+        <circle cx="526.5" cy="421.9" r="54.5000870856534" fill="#e9e700"/>
+        <circle cx="526.5" cy="421.9" r="54.5000870856534" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+      </g>
+      <g id="Graphic_10">
+        <circle cx="526.5" cy="277.6" r="54.5000870856535" fill="#fffc75"/>
+        <circle cx="526.5" cy="277.6" r="54.5000870856535" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+      </g>
+      <g id="Graphic_11">
+        <circle cx="526.5" cy="133.3" r="54.5000870856535" fill="red"/>
+        <circle cx="526.5" cy="133.3" r="54.5000870856535" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+      </g>
+    </g>
+  </g>
+</svg>
