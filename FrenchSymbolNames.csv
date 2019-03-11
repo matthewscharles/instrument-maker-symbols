@@ -1,11 +1,47 @@
 English,Français
+MIDI port,prise MIDI
+Touch Board,Touch Board (panneau tactile)
+arcade button,bouton d'arcade
+chaos,chaos
+contact mic,microphone de contact
 crocodile clip,pince crocodile
+dial,bouton de réglage
+distortion,distorsion
+echo,écho
+fader,fader
+feedback,retour
+grains,grain
+input,entrée de données
 jack plug,prise jack
 jack plug (mono),prise jack (mono)
 jack plug (stereo),prise jack (stéréo)
-MIDI port,prise MIDI
-contact microphone,microphone de contact
+long,long
+loop,loop
+microphone,microphone
+mixer,mixer
+mono,mono
+noise,bruit
+output,sortie
+pedal,pédale
+pink noise,bruit rose
+random,au hasard
+receive,recevoir
+reverb,réverbération
+reverse,inverse
+sample,échantallion
+scale,échelle
+send,envoyer
+sequence,séquence
+servo motor,servomoteur
+short,court
+sine wave,onde sïnosoidale
+smart chords,accords intelligents
 solenoid,solénoïde
-Theremin,theremin
+speaker,haut parleur
+square wave,onde carrée
+stereo,stéréo
+theremin,theremin
 tin foil,feuille d'étain
-Touch Board,Touch Board (panneau tactile)
+tuning system,systéme de réglage
+volume,volume
+white noise,bruit blanc
