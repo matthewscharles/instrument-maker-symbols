@@ -17,6 +17,7 @@ Some of these can probably be borrowed from more generic symbol sets:
 - hover
 - copy
 - swipe
+- tap
 
 ### Exercises / ways of listening
 
@@ -36,6 +37,8 @@ Some of these can probably be borrowed from more generic symbol sets:
   - Thumbjam
   - Garage Band
   - MobMuPlat
+  - Keezy
+  - Bebot
 
 ### Instruments
 
@@ -48,6 +51,8 @@ Some of these can probably be borrowed from more generic symbol sets:
   - cap sensor
 - mi:mu gloves
   - mini:mu gloves
+- skoog
+- beamz
 
 ### Studio/controls
 
@@ -61,6 +66,7 @@ Some of these can probably be borrowed from more generic symbol sets:
 - echo
 - delay
 - feedback
+- pitch shifter
 
 ## Waves
 
@@ -102,6 +108,7 @@ Some of these can probably be borrowed from more generic symbol sets:
 - library
 - Max
 - Pure Data
+- Unity
 
 ### Instrument maker: signals/flow
 
@@ -143,6 +150,8 @@ Some of these can probably be borrowed from more generic symbol sets:
 - LilyPad
 - Touch Board
 - Circuit Playground
+- Kinect
+- midi interface
 
 ### Interfaces
 
