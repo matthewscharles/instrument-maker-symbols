@@ -125,6 +125,8 @@ Some of these can probably be borrowed from more generic symbol sets:
   - lipo
   - power bank
 - USB
+- wireless
+- radio
 - banana plug
 - sensor
 - arcade button
@@ -153,10 +155,47 @@ Some of these can probably be borrowed from more generic symbol sets:
 ### Wider making 
 
 - 3D print
-
 - papercraft
 
-  
+To categorise
 
-  
+- trigger
+- if
+- for
+- let
+- buzzer
+- external
+- internal
+- pcb
+- toggle
+- xlr
+- firmata
+- digital
+- analog
+- synthesiser
+- drum machine
+- accelerometer
+- yaw
+- pitch
+- roll
+- micro::bit
+- box
+- envelope
+- (arduino) shield
+- proximity
+
+Cards from Exchanging Notes / Drake Music blog
+
+- play: down
+- play: up
+- play: short
+- play: long
+- play: pick 3 notes
+- play: short + long
+- play: trill
+- play: random
+- play: round trip
+- play: fast
+- play: slow
+- play: on the beat
 
