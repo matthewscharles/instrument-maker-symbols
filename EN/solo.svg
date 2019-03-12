@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
-  <defs/>
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="black">
+      <g>
+        <path d="M 2.0571429 0 L 0 -.7714286 L 0 .7714286 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
   <metadata> Produced by OmniGraffle 7.9.4 
-    <dc:date>2019-03-12 02:11:16 +0000</dc:date>
+    <dc:date>2019-03-12 13:09:48 +0000</dc:date>
   </metadata>
-  <g id="Smart_Chords_2" fill="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none" stroke="none">
-    <title>Smart Chords 2</title>
-    <g id="Smart_Chords_2: Layer 1">
+  <g id="solo" fill="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none" stroke="none">
+    <title>solo</title>
+    <g id="solo: Layer 1">
       <title>Layer 1</title>
       <g id="Graphic_6">
         <rect x="115" y="97" width="74.93548" height="636.8205" fill="red"/>
@@ -40,6 +46,12 @@
       <g id="Graphic_30">
         <rect x="636.10275" y="97.7037" width="74.93548" height="634.8205" fill="#9662d0"/>
         <rect x="636.10275" y="97.7037" width="74.93548" height="634.8205" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="solo: Layer 2">
+      <title>Layer 2</title>
+      <g id="Line_31">
+        <path d="M 307 680 L 216.37595 599.9372 C 212.9683 596.92666 210.6882 592.8448 209.9116 588.3646 L 177.83999 403.34717 C 176.47286 395.46035 179.93978 387.51802 186.6527 383.15824 L 234.4953 352.08634 C 239.681 348.7184 246.13294 347.9385 251.9718 349.9738 L 350.78975 384.4196 C 354.47484 385.70416 357.7036 388.03876 360.0782 391.13574 L 482.0292 550.18646 C 485.84255 555.1599 491.7667 558.0583 498.0337 558.0166 L 623.7832 557.18084 C 631.33715 557.1306 638.2183 552.82855 641.5717 546.0595 L 705.9565 416.0936 C 710.8598 406.19585 706.811 394.19724 696.9133 389.29394 C 696.5624 389.1201 696.2065 388.9566 695.846 388.8037 L 603.3845 349.5781 C 596.58984 346.69554 588.75986 347.78953 583.01544 352.424 L 541.6329 385.8107 C 537.88093 388.83772 533.1619 390.4077 528.3443 390.23163 L 424.686 386.4435 C 417.4085 386.17756 410.85077 381.977 407.5662 375.47747 L 390.27953 341.2702 C 385.2976 331.41184 389.2507 319.38138 399.1091 314.39943 C 401.9844 312.9464 405.1682 312.20943 408.38954 312.2513 L 561.09384 314.2354 C 562.3744 314.25204 563.6536 314.14564 564.9138 313.91768 L 616.2645 304.6286 C 623.5168 303.3167 628.3325 296.374 627.0206 289.12166 C 626.1379 284.24203 622.6222 280.25424 617.8917 278.76686 L 415.241 215.04867 C 413.8539 214.61253 412.40834 214.39063 410.9543 214.39063 L 410.5701 214.39063 C 409.3661 214.39063 408.16457 214.2819 406.98014 214.0658 L 161.65628 169.3039 C 150.78999 167.32122 143.58838 156.90508 145.57105 146.03878 C 146.24366 142.35247 147.93834 138.92926 150.46195 136.1593 L 169.17048 115.6245 C 173.77082 110.5751 180.63005 108.22275 187.36103 109.38613 L 578.37 176.96793" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="14"/>
       </g>
     </g>
   </g>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-03-12 13:33:20 +0000</dc:date>
+  </metadata>
+  <g id="dataflow__object" fill="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none" stroke="none">
+    <title>dataflow: object</title>
+    <g id="dataflow__object: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_23">
+        <path d="M 744.8321 292.53238 L 744.8321 555.0172 L 211 582.04816 L 211 264.79008 Z" fill="#666"/>
+        <path d="M 744.8321 292.53238 L 744.8321 555.0172 L 211 582.04816 L 211 264.79008 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="22"/>
+      </g>
+      <g id="Graphic_2">
+        <circle cx="248.73724" cy="187.26635" r="115.56953318037" fill="#201f80"/>
+        <circle cx="248.73724" cy="187.26635" r="115.56953318037" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4">
+        <circle cx="248.73724" cy="187.26635" r="89.0406366596966" fill="black"/>
+        <circle cx="248.73724" cy="187.26635" r="89.0406366596966" stroke="#333200" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g id="Graphic_8">
+        <ellipse cx="248.73724" cy="198.98054" rx="25.873448177154" ry="12.936724088577" fill="black"/>
+        <ellipse cx="248.73724" cy="198.98054" rx="25.873448177154" ry="12.936724088577" stroke="#fffc00" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g id="Graphic_22">
+        <circle cx="251.6679" cy="660.197" r="118.500189351375" fill="#201f80"/>
+        <circle cx="251.6679" cy="660.197" r="118.500189351375" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_21">
+        <circle cx="251.6679" cy="660.197" r="91.2985629843591" fill="black"/>
+        <circle cx="251.6679" cy="660.197" r="91.2985629843591" stroke="#333200" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g id="Graphic_20">
+        <ellipse cx="251.6679" cy="648.18575" rx="26.5295569151481" ry="13.264778457574" fill="black"/>
+        <ellipse cx="251.6679" cy="648.18575" rx="26.5295569151481" ry="13.264778457574" stroke="#fffc00" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g id="Line_24">
+        <path d="M 269 477.7397 L 303.15244 370.12564 L 330.89634 482.8854 L 347.94093 425.3608 L 356.59184 512.0794 L 358.16387 319.7965 L 381.8491 462.0185 L 386.87957 462.0185 L 386.87957 462.0185" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_25">
+        <path d="M 465 480.51586 L 498.12195 430.215 L 526.89634 485.66154 L 543.9409 428.13693 L 552.59184 514.8556 L 570 420.16747 L 577.8491 464.79464 L 582.8796 464.79464 L 582.8796 464.79464" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

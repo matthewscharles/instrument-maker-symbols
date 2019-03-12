@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 4 4" markerWidth="4" markerHeight="4" color="black">
+      <g>
+        <path d="M 1.728 0 L 0 -.648 L 0 .648 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-03-12 13:20:38 +0000</dc:date>
+  </metadata>
+  <g id="exponential" fill="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none" stroke="none">
+    <title>exponential</title>
+    <g id="exponential: Layer 1">
+      <title>Layer 1</title>
+      <g id="Line_3">
+        <path d="M 138 705 L 352.7603 628.05595 C 367.90185 622.63105 382.33373 615.39945 395.7432 606.51786 L 512.1805 529.39704 C 534.93054 514.32884 554.35645 494.76455 569.2628 471.90814 L 664.433 325.98047 C 674.7589 310.14752 682.788 292.93067 688.2808 274.8438 L 695.0792 252.45778" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="50"/>
+      </g>
+    </g>
+  </g>
+</svg>

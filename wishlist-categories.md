@@ -183,6 +183,22 @@ To categorise
 - envelope
 - (arduino) shield
 - proximity
+- sync/synchronise
+- ring modulator
+- connect
+- wheel (verb)
+- filter delay
+- hpf
+- lpf 
+- LFO
+- module
+- modular synth
+- rack
+- sub
+- vibrotactile
+- buzz
+- zero crossing
+- pan
 
 Cards from Exchanging Notes / Drake Music blog
 
