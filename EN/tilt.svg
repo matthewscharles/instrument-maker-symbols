@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 4 4" markerWidth="4" markerHeight="4" color="black">
+      <g>
+        <path d="M 1.9764706 0 L 0 -.7411765 L 0 .7411765 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-3 -2 4 4" markerWidth="4" markerHeight="4" color="black">
+      <g>
+        <path d="M -1.9764706 0 L 0 .7411765 L 0 -.7411765 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-03-22 20:43:49 +0000</dc:date>
+  </metadata>
+  <g id="tilt" stroke-opacity="1" fill-opacity="1" stroke="none" stroke-dasharray="none" fill="none">
+    <title>tilt</title>
+    <g id="tilt: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <path d="M 474.076 91.83997 L 770.0538 262.7228 C 805.0637 282.9358 763.095 421.2467 676.3737 571.45246 C 589.65234 721.6582 490.85593 827.1596 455.846 806.9466 L 159.86825 636.0638 C 124.85831 615.8508 166.82698 477.5399 253.54833 327.33413 C 340.26967 177.12836 439.0661 71.62697 474.076 91.83997 Z" fill="#333"/>
+        <path d="M 474.076 91.83997 L 770.0538 262.7228 C 805.0637 282.9358 763.095 421.2467 676.3737 571.45246 C 589.65234 721.6582 490.85593 827.1596 455.846 806.9466 L 159.86825 636.0638 C 124.85831 615.8508 166.82698 477.5399 253.54833 327.33413 C 340.26967 177.12836 439.0661 71.62697 474.076 91.83997 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      </g>
+      <g id="Graphic_3">
+        <path d="M 481.532 165.3112 L 707.8679 295.9863 C 734.6402 311.4433 702.54654 417.21045 636.2302 532.0737 C 569.9139 646.9369 494.3637 727.61445 467.5914 712.15745 L 241.25548 581.48235 C 214.48317 566.02535 246.57687 460.2582 312.8932 345.39496 C 379.2095 230.53172 454.7597 149.8542 481.532 165.3112 Z" fill="#76bdff"/>
+        <path d="M 481.532 165.3112 L 707.8679 295.9863 C 734.6402 311.4433 702.54654 417.21045 636.2302 532.0737 C 569.9139 646.9369 494.3637 727.61445 467.5914 712.15745 L 241.25548 581.48235 C 214.48317 566.02535 246.57687 460.2582 312.8932 345.39496 C 379.2095 230.53172 454.7597 149.8542 481.532 165.3112 Z" stroke="#506fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+      <g id="Graphic_4">
+        <circle cx="336.38256" cy="685.0295" r="25.2361846882939" fill="#666"/>
+        <circle cx="336.38256" cy="685.0295" r="25.2361846882939" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+      <g id="Line_5">
+        <path d="M 240.99856 190.52335 C 202.4998 198.37913 166.56705 215.76533 136.5 241.1111 L 121.42038 253.82286 C 104.50479 268.08228 90.48431 285.38747 80.05793 304.79136" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="17"/>
+      </g>
+      <g id="Line_6">
+        <path d="M 634.7792 798.0322 C 673.278 790.1764 709.2107 772.7902 739.2778 747.4444 L 754.3574 734.7327 C 771.273 720.4733 785.2935 703.1681 795.7198 683.7642" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="17"/>
+      </g>
+    </g>
+  </g>
+</svg>

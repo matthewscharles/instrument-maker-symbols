@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="black">
+      <g>
+        <path d="M 2.1333333 0 L 0 -.8 L 0 .8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-03-18 13:23:35 +0000</dc:date>
+  </metadata>
+  <g id="lazy_susan" stroke-opacity="1" fill-opacity="1" stroke="none" stroke-dasharray="none" fill="none">
+    <title>lazy susan</title>
+    <g id="lazy_susan: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <path d="M 259.82463 582.5899 C 168.4915 544.48015 168.4915 482.6921 259.82463 444.5824 C 351.1573 406.47247 499.2367 406.47247 590.5694 444.5824 C 681.9025 482.6921 681.9025 544.48015 590.5694 582.5899 C 499.2367 620.6998 351.1573 620.6998 259.82463 582.5899" fill="#ab7942"/>
+        <path d="M 259.82463 582.5899 C 168.4915 544.48015 168.4915 482.6921 259.82463 444.5824 C 351.1573 406.47247 499.2367 406.47247 590.5694 444.5824 C 681.9025 482.6921 681.9025 544.48015 590.5694 582.5899 C 499.2367 620.6998 351.1573 620.6998 259.82463 582.5899" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"/>
+      </g>
+      <g id="Graphic_3">
+        <path d="M 177.71396 512.4073 C 38.524276 442.97863 36.49129 326.50897 173.17316 252.26494 C 309.8543 178.02054 533.49106 174.11695 672.68004 243.546 C 811.8697 312.9747 813.9027 429.44435 677.22084 503.6884 C 540.5397 577.9328 316.90294 581.8364 177.71396 512.4073" fill="#ab7942"/>
+        <path d="M 177.71396 512.4073 C 38.524276 442.97863 36.49129 326.50897 173.17316 252.26494 C 309.8543 178.02054 533.49106 174.11695 672.68004 243.546 C 811.8697 312.9747 813.9027 429.44435 677.22084 503.6884 C 540.5397 577.9328 316.90294 581.8364 177.71396 512.4073" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"/>
+      </g>
+      <g id="Line_4">
+        <path d="M 253 164.52443 L 300.3375 147.81708 C 316.9335 141.95966 334.23006 138.31842 351.77902 136.98769 L 436.3785 130.57255 C 444.6147 129.948 452.8817 129.83427 461.132 130.23203 L 495.54314 131.89102 C 505.46513 132.36937 515.3377 133.58625 525.0789 135.53157 L 629.42286 156.36912 C 656.35915 161.7483 681.8987 172.6184 704.4493 188.30179 L 723.0942 201.26884 C 747.4608 218.21515 767.6352 240.2893 782.2939 265.78933" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g id="Line_8">
+        <path d="M 606.8085 639.4255 L 559.471 656.1329 C 542.875 661.9903 525.57845 665.63154 508.0295 666.9623 L 423.43003 673.3774 C 415.1938 674.002 406.9268 674.1157 398.6765 673.7179 L 364.26537 672.05895 C 354.3434 671.5806 344.4708 670.3637 334.72963 668.4184 L 230.38565 647.58085 C 203.44936 642.20166 177.90985 631.33156 155.35921 615.6482 L 136.7143 602.6811 C 112.34774 585.7348 92.17333 563.66065 77.51457 538.16064" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+    </g>
+  </g>
+</svg>
