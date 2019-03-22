@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="#ff2600">
+      <g>
+        <path d="M 2.0571429 0 L 0 -.7714286 L 0 .7714286 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="#ff2600">
+      <g>
+        <path d="M 2.0571429 0 L 0 -.7714286 L 0 .7714286 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-03-22 21:19:47 +0000</dc:date>
+  </metadata>
+  <g id="ramp" stroke-opacity="1" fill-opacity="1" stroke="none" stroke-dasharray="none" fill="none">
+    <title>ramp</title>
+    <g id="ramp: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_4">
+        <path d="M 130.33727 594.7548 L 291.4298 689.2836 L 720.7631 286.3947 L 369.20757 169.72802 Z" fill="#4040ff"/>
+        <path d="M 130.33727 594.7548 L 291.4298 689.2836 L 720.7631 286.3947 L 369.20757 169.72802 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+      <g id="Graphic_5">
+        <path d="M 131.47183 595.8893 L 293.76313 689.2836 L 275.80626 752.9283 L 143.61823 676.6095 Z" fill="#76bdff"/>
+        <path d="M 131.47183 595.8893 L 293.76313 689.2836 L 275.80626 752.9283 L 143.61823 676.6095 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+      <g id="Graphic_2">
+        <ellipse cx="535.00645" cy="184.03068" rx="86.1089177157089" ry="82.9196985410529" fill="red"/>
+        <ellipse cx="535.00645" cy="184.03068" rx="86.1089177157089" ry="82.9196985410529" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+      <g id="Graphic_3">
+        <ellipse cx="204.61538" cy="621.44444" rx="43.6154543084906" ry="42.0000671118798" fill="red"/>
+        <ellipse cx="204.61538" cy="621.44444" rx="43.6154543084906" ry="42.0000671118798" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+      <g id="Line_6">
+        <path d="M 217.89767 607.44444 L 326.0088 382.66667 L 367.231 318.8889 L 412.80807 277.21844" marker-end="url(#FilledArrow_Marker)" stroke="#ff2600" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="14.0,56.0" stroke-width="14"/>
+      </g>
+      <g id="Graphic_8">
+        <path d="M 292.48156 688.8483 L 720.3421 285.44444 L 700.8977 465.8889 L 273.1199 755.2222 Z" fill="#76bdff"/>
+        <path d="M 292.48156 688.8483 L 720.3421 285.44444 L 700.8977 465.8889 L 273.1199 755.2222 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+      <g id="Line_9">
+        <path d="M 250.44444 584.1111 L 360.1111 406.7778 L 401.33333 343 L 446.9104 301.32955" marker-end="url(#FilledArrow_Marker_2)" stroke="#ff2600" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="14.0,56.0" stroke-width="14"/>
+      </g>
+      <g id="Line_10">
+        <path d="M 204.55556 564.6667 L 290.8889 359.33333 L 332.1111 295.55556 L 377.68817 253.8851" marker-end="url(#FilledArrow_Marker_2)" stroke="#ff2600" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="14.0,56.0" stroke-width="14"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-03-22 19:41:17 +0000</dc:date>
+  </metadata>
+  <g id="mobile" stroke-opacity="1" fill-opacity="1" stroke="none" stroke-dasharray="none" fill="none">
+    <title>mobile</title>
+    <g id="mobile: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <path d="M 218.14508 36.555556 L 644.5258 36.555556 C 694.9606 36.555556 735.8931 212.17156 735.8931 428.55556 C 735.8931 644.93956 694.9606 820.5556 644.5258 820.5556 L 218.14508 820.5556 C 167.71033 820.5556 126.77778 644.93956 126.77778 428.55556 C 126.77778 212.17156 167.71033 36.555556 218.14508 36.555556 Z" fill="#333"/>
+        <path d="M 218.14508 36.555556 L 644.5258 36.555556 C 694.9606 36.555556 735.8931 212.17156 735.8931 428.55556 C 735.8931 644.93956 694.9606 820.5556 644.5258 820.5556 L 218.14508 820.5556 C 167.71033 820.5556 126.77778 644.93956 126.77778 428.55556 C 126.77778 212.17156 167.71033 36.555556 218.14508 36.555556 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      </g>
+      <g id="Graphic_3">
+        <path d="M 272.0315 111.28566 L 598.08736 111.28566 C 636.6551 111.28566 667.9565 245.58025 667.9565 411.05037 C 667.9565 576.5205 636.6551 710.8151 598.08736 710.8151 L 272.0315 710.8151 C 233.46376 710.8151 202.1624 576.5205 202.1624 411.05037 C 202.1624 245.58025 233.46376 111.28566 272.0315 111.28566 Z" fill="#76bdff"/>
+        <path d="M 272.0315 111.28566 L 598.08736 111.28566 C 636.6551 111.28566 667.9565 245.58025 667.9565 411.05037 C 667.9565 576.5205 636.6551 710.8151 598.08736 710.8151 L 272.0315 710.8151 C 233.46376 710.8151 202.1624 576.5205 202.1624 411.05037 C 202.1624 245.58025 233.46376 111.28566 272.0315 111.28566 Z" stroke="#506fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+      <g id="Graphic_4">
+        <circle cx="439.4022" cy="763.3519" r="31.4842132045312" fill="#666"/>
+        <circle cx="439.4022" cy="763.3519" r="31.4842132045312" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+    </g>
+  </g>
+</svg>

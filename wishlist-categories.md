@@ -209,7 +209,7 @@ To categorise
 - zero crossing
 - pan
 
-Cards from Exchanging Notes / Drake Music blog
+## Cards from Exchanging Notes / Drake Music blog
 
 - play: down
 - play: up
@@ -223,4 +223,8 @@ Cards from Exchanging Notes / Drake Music blog
 - play: fast
 - play: slow
 - play: on the beat
+
+## Additional cards/cues from accessible music technology training booklet
+
+- guided access
 
