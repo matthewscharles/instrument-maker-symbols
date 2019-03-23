@@ -1,9 +1,9 @@
 {
   "IM_shield.svg": {
     "name": "IM shield",
-    "tags": "",
+    "tags": ["insrument_maker"],
     "description": {
-      "short": "",
+      "short": "Crocodile clip shield for Bela Mini",
       "easy": "",
       "long": ""
     },
@@ -23,7 +23,7 @@
     "name": "IM squirrel",
     "tags": "",
     "description": {
-      "short": "",
+      "short": "A squirrel creating sound with a strange computer-like contraption.",
       "easy": "",
       "long": ""
     },
@@ -41,9 +41,9 @@
   },
   "LDR.svg": {
     "name": "LDR",
-    "tags": "",
+    "tags": ["components", "sensors"],
     "description": {
-      "short": "",
+      "short": "A light dependent resistor: a small component with two legs and a red stripe.",
       "easy": "",
       "long": ""
     },
@@ -63,7 +63,7 @@
     "name": "MIDI port",
     "tags": "",
     "description": {
-      "short": "",
+      "short": "A round socket with five holes.",
       "easy": "",
       "long": ""
     },
@@ -81,9 +81,9 @@
   },
   "Touch_Board.svg": {
     "name": "Touch Board",
-    "tags": "",
+    "tags": ["workshop_kit", "Arduino"],
     "description": {
-      "short": "",
+      "short": "A white circuit board with twelve metal holes for crocodile clips.",
       "easy": "",
       "long": ""
     },
@@ -101,9 +101,9 @@
   },
   "arcade_button.svg": {
     "name": "arcade button",
-    "tags": "",
+    "tags": ["components", "sensors"],
     "description": {
-      "short": "",
+      "short": "A big red button with two pins at the bottom.",
       "easy": "",
       "long": ""
     },
@@ -123,7 +123,7 @@
     "name": "barrel jack",
     "tags": "",
     "description": {
-      "short": "",
+      "short": "A cable with a round plug, of the kind usually used for power supplies.",
       "easy": "",
       "long": ""
     },
@@ -143,7 +143,7 @@
     "name": "black notes",
     "tags": "",
     "description": {
-      "short": "",
+      "short": "A piano keyboard with the black notes highlighted.",
       "easy": "",
       "long": ""
     },
@@ -163,7 +163,7 @@
     "name": "bonang",
     "tags": "",
     "description": {
-      "short": "",
+      "short": "A set of Indonesian-style gongs, each with a raised boss in the middle.",
       "easy": "",
       "long": ""
     },
@@ -183,7 +183,7 @@
     "name": "buzzer",
     "tags": "",
     "description": {
-      "short": "",
+      "short": "A small piezo buzzer.",
       "easy": "",
       "long": ""
     },
@@ -201,9 +201,9 @@
   },
   "chaos.svg": {
     "name": "chaos",
-    "tags": "",
+    "tags": ["iPad_workshops", "gestures"],
     "description": {
-      "short": "",
+      "short": "A confusing mess of lines and shapes.",
       "easy": "",
       "long": ""
     },
@@ -221,9 +221,9 @@
   },
   "chip.svg": {
     "name": "chip",
-    "tags": "",
+    "tags": ["components"],
     "description": {
-      "short": "",
+      "short": "A small black chip with six legs.",
       "easy": "",
       "long": ""
     },
@@ -241,9 +241,9 @@
   },
   "chorus.svg": {
     "name": "chorus",
-    "tags": "",
+    "tags": ["effects"],
     "description": {
-      "short": "",
+      "short": "A sound wave duplicated several times with slightly different shapes and colours.",
       "easy": "",
       "long": ""
     },
@@ -261,9 +261,9 @@
   },
   "circuit_playground.svg": {
     "name": "circuit playground",
-    "tags": "",
+      "tags": ["workshop_kit", "Arduino"],
     "description": {
-      "short": "",
+      "short": "A small black disc with ten metal-coated holes to accomodate crocodile clips.",
       "easy": "",
       "long": ""
     },
@@ -321,7 +321,7 @@
   },
   "contact_mic.svg": {
     "name": "contact mic",
-    "tags": "",
+    "tags": ["components", "sensors"],
     "description": {
       "short": "",
       "easy": "",
@@ -341,7 +341,7 @@
   },
   "crocodile_clip.svg": {
     "name": "crocodile clip",
-    "tags": "",
+    "tags": ["components", "cables"],
     "description": {
       "short": "",
       "easy": "",
@@ -381,7 +381,7 @@
   },
   "dial.svg": {
     "name": "dial",
-    "tags": "",
+    "tags": ["components", "sensors"],
     "description": {
       "short": "",
       "easy": "",
@@ -401,7 +401,7 @@
   },
   "distortion.svg": {
     "name": "distortion",
-    "tags": "",
+    "tags": ["effects"],
     "description": {
       "short": "",
       "easy": "",
@@ -421,7 +421,7 @@
   },
   "drum_machine.svg": {
     "name": "drum machine",
-    "tags": "",
+    "tags": ["instruments"],
     "description": {
       "short": "",
       "easy": "",
@@ -441,7 +441,7 @@
   },
   "echo.svg": {
     "name": "echo",
-    "tags": "",
+    "tags": ["effects"],
     "description": {
       "short": "",
       "easy": "",
@@ -481,7 +481,7 @@
   },
   "envelope.svg": {
     "name": "envelope",
-    "tags": "",
+    "tags": ["effects"],
     "description": {
       "short": "",
       "easy": "",
@@ -501,7 +501,7 @@
   },
   "fader.svg": {
     "name": "fader",
-    "tags": "",
+    "tags": ["components", "sensors", "gui"],
     "description": {
       "short": "",
       "easy": "",
@@ -561,7 +561,7 @@
   },
   "filter.svg": {
     "name": "filter",
-    "tags": "",
+    "tags": ["effects"],
     "description": {
       "short": "",
       "easy": "",
@@ -581,7 +581,7 @@
   },
   "fizzy.svg": {
     "name": "fizzy",
-    "tags": "",
+    "tags": ["instruments"],
     "description": {
       "short": "",
       "easy": "",
@@ -594,14 +594,14 @@
       "Deutsch": ""
     },
     "packages": [
-      "misc"
+      "im.instruments"
     ],
     "author": "Charles Matthews",
     "related": ""
   },
   "gong.svg": {
     "name": "gong",
-    "tags": "",
+    "tags": ["instruments"],
     "description": {
       "short": "",
       "easy": "",
@@ -621,7 +621,7 @@
   },
   "grains.svg": {
     "name": "grains",
-    "tags": "",
+    "tags": ["effects"],
     "description": {
       "short": "",
       "easy": "",
@@ -634,7 +634,7 @@
       "Deutsch": ""
     },
     "packages": [
-      "misc"
+      "misc", "im.instruments"
     ],
     "author": "Charles Matthews",
     "related": ""
@@ -661,7 +661,7 @@
   },
   "headphones.svg": {
     "name": "headphones",
-    "tags": "",
+    "tags": ["outputs"],
     "description": {
       "short": "",
       "easy": "",
@@ -681,7 +681,7 @@
   },
   "input.svg": {
     "name": "input",
-    "tags": "",
+    "tags": ["inputs", "dataflow"],
     "description": {
       "short": "",
       "easy": "",
@@ -721,7 +721,7 @@
   },
   "jack_plug.svg": {
     "name": "jack plug",
-    "tags": "",
+    "tags": ["cables"],
     "description": {
       "short": "",
       "easy": "",
@@ -741,7 +741,7 @@
   },
   "jack_plug_(mono).svg": {
     "name": "jack plug_(mono)",
-    "tags": "",
+    "tags": ["cables"],
     "description": {
       "short": "",
       "easy": "",

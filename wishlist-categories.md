@@ -121,6 +121,8 @@ Some of these can probably be borrowed from more generic symbol sets:
 
 ## Hardware
 
+- copper tape
+- gaffer tape
 - breadboard
 - circuit
 - jumper
@@ -166,7 +168,7 @@ Some of these can probably be borrowed from more generic symbol sets:
 - 3D print
 - papercraft
 
-To categorise
+### To categorise
 
 - trigger
 - if
