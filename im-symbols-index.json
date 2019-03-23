@@ -357,7 +357,7 @@
 
     "tags": ["components", "sensors"],
     "description": {
-      "short": "",
+      "short": "Two small concentric circles with black and red cables soldered to them.",
       "easy": "",
       "long": ""
     },
@@ -451,7 +451,7 @@
     "tags": ["effects"],
 
     "description": {
-      "short": "",
+      "short": "Thick red lines constrict a fuzzy waveform.",
       "easy": "",
       "long": ""
     },
@@ -499,7 +499,7 @@
     "tags": ["effects"],
 
     "description": {
-      "short": "",
+      "short": "A soundwave repeats, gradually getting smaller and fainter.",
       "easy": "",
       "long": ""
     },
@@ -593,7 +593,7 @@
   ""
 ],
     "description": {
-      "short": "",
+      "short": "Two triangles pointing to the right of the screen.",
       "easy": "",
       "long": ""
     },
@@ -614,7 +614,7 @@
   "feedback.svg": {
     "name": "feedback",
 "tags": [
-  ""
+  "effects"
 ],
     "description": {
       "short": "",
@@ -686,7 +686,7 @@
     "name": "gong",
 
     "tags": ["instruments"],
- {
+"description": {
       "short": "",
       "easy": "",
       "long": ""
@@ -759,7 +759,7 @@
     "tags": [
       ""
     ],
- master
+
     "description": {
       "short": "",
       "easy": "",
@@ -955,7 +955,7 @@
   ""
 ],
     "description": {
-      "short": "",
+      "short": "A small wooden table with lines to indicate spinning around.",
       "easy": "",
       "long": ""
     },
@@ -989,7 +989,7 @@
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
-      "Deutsch": ""
+      "Deutsch": "Licht"
     },
     "packages": [
       "misc"
@@ -1123,7 +1123,7 @@
   ""
 ],
     "description": {
-      "short": "",
+      "short": "A small mobile device, like a phone or an iPad",
       "easy": "",
       "long": ""
     },
@@ -1136,7 +1136,7 @@
       "Deutsch": ""
     },
     "packages": [
-      "misc"
+      "misc", "GUI", "mobile"
     ],
     "author": "Charles Matthews",
     "related": ""
@@ -1144,7 +1144,7 @@
   "mono.svg": {
     "name": "mono",
 "tags": [
-  ""
+  "GUI", "mobile"
 ],
     "description": {
       "short": "",
@@ -1168,7 +1168,7 @@
   "multi_touch.svg": {
     "name": "multi touch",
 "tags": [
-  ""
+  "mobile", "GUI"
 ],
     "description": {
       "short": "",
@@ -1192,7 +1192,7 @@
   "noise.svg": {
     "name": "noise",
 "tags": [
-  ""
+  "sources"
 ],
     "description": {
       "short": "",
