@@ -1,13 +1,15 @@
 {
   "IM_shield.svg": {
     "name": "IM shield",
+
     "tags": ["insrument_maker"],
     "description": {
       "short": "Crocodile clip shield for Bela Mini",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+    "synonyms": [""],
+
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -21,6 +23,7 @@
   },
   "IM_squirrel.svg": {
     "name": "IM squirrel",
+
     "tags": "",
     "description": {
       "short": "A squirrel creating sound with a strange computer-like contraption.",
@@ -28,6 +31,7 @@
       "long": ""
     },
     "synonyms": [],
+
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -48,6 +52,7 @@
       "long": ""
     },
     "synonyms": [],
+
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -61,6 +66,7 @@
   },
   "MIDI_port.svg": {
     "name": "MIDI port",
+
     "tags": "",
     "description": {
       "short": "A round socket with five holes.",
@@ -68,6 +74,7 @@
       "long": ""
     },
     "synonyms": [],
+
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -81,6 +88,7 @@
   },
   "Touch_Board.svg": {
     "name": "Touch Board",
+
     "tags": ["workshop_kit", "Arduino"],
     "description": {
       "short": "A white circuit board with twelve metal holes for crocodile clips.",
@@ -88,6 +96,7 @@
       "long": ""
     },
     "synonyms": [],
+
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -101,6 +110,7 @@
   },
   "arcade_button.svg": {
     "name": "arcade button",
+
     "tags": ["components", "sensors"],
     "description": {
       "short": "A big red button with two pins at the bottom.",
@@ -121,6 +131,7 @@
   },
   "barrel_jack.svg": {
     "name": "barrel jack",
+
     "tags": "",
     "description": {
       "short": "A cable with a round plug, of the kind usually used for power supplies.",
@@ -148,6 +159,7 @@
       "long": ""
     },
     "synonyms": [],
+
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -161,6 +173,7 @@
   },
   "bonang.svg": {
     "name": "bonang",
+
     "tags": "",
     "description": {
       "short": "A set of Indonesian-style gongs, each with a raised boss in the middle.",
@@ -168,6 +181,7 @@
       "long": ""
     },
     "synonyms": [],
+
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -181,6 +195,7 @@
   },
   "buzzer.svg": {
     "name": "buzzer",
+
     "tags": "",
     "description": {
       "short": "A small piezo buzzer.",
@@ -188,6 +203,7 @@
       "long": ""
     },
     "synonyms": [],
+
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -201,6 +217,7 @@
   },
   "chaos.svg": {
     "name": "chaos",
+
     "tags": ["iPad_workshops", "gestures"],
     "description": {
       "short": "A confusing mess of lines and shapes.",
@@ -221,6 +238,7 @@
   },
   "chip.svg": {
     "name": "chip",
+
     "tags": ["components"],
     "description": {
       "short": "A small black chip with six legs.",
@@ -228,6 +246,7 @@
       "long": ""
     },
     "synonyms": [],
+
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -241,6 +260,7 @@
   },
   "chorus.svg": {
     "name": "chorus",
+
     "tags": ["effects"],
     "description": {
       "short": "A sound wave duplicated several times with slightly different shapes and colours.",
@@ -248,6 +268,7 @@
       "long": ""
     },
     "synonyms": [],
+
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -261,6 +282,7 @@
   },
   "circuit_playground.svg": {
     "name": "circuit playground",
+
       "tags": ["workshop_kit", "Arduino"],
     "description": {
       "short": "A small black disc with ten metal-coated holes to accomodate crocodile clips.",
@@ -281,13 +303,20 @@
   },
   "clock.svg": {
     "name": "clock",
-    "tags": "",
+
+    "tags": [
+      ""
+    ],
+
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+
+    "synonyms": [
+      ""
+    ],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -301,13 +330,17 @@
   },
   "cold.svg": {
     "name": "cold",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -321,13 +354,16 @@
   },
   "contact_mic.svg": {
     "name": "contact mic",
+
     "tags": ["components", "sensors"],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -341,13 +377,15 @@
   },
   "crocodile_clip.svg": {
     "name": "crocodile clip",
-    "tags": ["components", "cables"],
+"tags": ["components", "cables"],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -361,13 +399,17 @@
   },
   "deck.svg": {
     "name": "deck",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -381,13 +423,17 @@
   },
   "dial.svg": {
     "name": "dial",
+
     "tags": ["components", "sensors"],
+
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -401,13 +447,17 @@
   },
   "distortion.svg": {
     "name": "distortion",
+
     "tags": ["effects"],
+
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -421,13 +471,17 @@
   },
   "drum_machine.svg": {
     "name": "drum machine",
+
     "tags": ["instruments"],
+
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -441,13 +495,17 @@
   },
   "echo.svg": {
     "name": "echo",
+
     "tags": ["effects"],
+
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -461,13 +519,17 @@
   },
   "edit.svg": {
     "name": "edit",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -481,13 +543,17 @@
   },
   "envelope.svg": {
     "name": "envelope",
+
     "tags": ["effects"],
+
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -501,13 +567,15 @@
   },
   "fader.svg": {
     "name": "fader",
-    "tags": ["components", "sensors", "gui"],
+    "tags": ["components", "sensors", "GUI"],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -521,13 +589,17 @@
   },
   "fast_forward.svg": {
     "name": "fast forward",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -541,13 +613,17 @@
   },
   "feedback.svg": {
     "name": "feedback",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -561,13 +637,17 @@
   },
   "filter.svg": {
     "name": "filter",
+
     "tags": ["effects"],
+
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -581,33 +661,39 @@
   },
   "fizzy.svg": {
     "name": "fizzy",
+
     "tags": ["instruments"],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
       "Deutsch": ""
     },
     "packages": [
-      "im.instruments"
+"misc"
     ],
     "author": "Charles Matthews",
     "related": ""
   },
   "gong.svg": {
     "name": "gong",
+
     "tags": ["instruments"],
-    "description": {
+ {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -627,27 +713,35 @@
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
       "Deutsch": ""
     },
     "packages": [
+
       "misc", "im.instruments"
+
     ],
     "author": "Charles Matthews",
     "related": ""
   },
   "guitar.svg": {
     "name": "guitar",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -661,13 +755,19 @@
   },
   "headphones.svg": {
     "name": "headphones",
-    "tags": ["outputs"],
+
+    "tags": [
+      ""
+    ],
+ master
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -681,13 +781,18 @@
   },
   "input.svg": {
     "name": "input",
+
     "tags": ["inputs", "dataflow"],
+
+
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -701,13 +806,17 @@
   },
   "instrument_maker_shield.svg": {
     "name": "instrument maker_shield",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -721,13 +830,18 @@
   },
   "jack_plug.svg": {
     "name": "jack plug",
+
     "tags": ["cables"],
+
+
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -741,13 +855,17 @@
   },
   "jack_plug_(mono).svg": {
     "name": "jack plug_(mono)",
+
     "tags": ["cables"],
+
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -761,13 +879,17 @@
   },
   "jack_plug_(stereo).svg": {
     "name": "jack plug_(stereo)",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -781,13 +903,17 @@
   },
   "jumper_lead.svg": {
     "name": "jumper lead",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -801,13 +927,17 @@
   },
   "keyboard.svg": {
     "name": "keyboard",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -821,13 +951,17 @@
   },
   "lazy_susan.svg": {
     "name": "lazy susan",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -841,13 +975,17 @@
   },
   "light.svg": {
     "name": "light",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -861,13 +999,17 @@
   },
   "long.svg": {
     "name": "long",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -881,13 +1023,17 @@
   },
   "loop.svg": {
     "name": "loop",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -901,13 +1047,17 @@
   },
   "map.svg": {
     "name": "map",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -921,13 +1071,17 @@
   },
   "microphone.svg": {
     "name": "microphone",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -941,13 +1095,17 @@
   },
   "mixer.svg": {
     "name": "mixer",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -961,13 +1119,17 @@
   },
   "mobile.svg": {
     "name": "mobile",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -981,13 +1143,17 @@
   },
   "mono.svg": {
     "name": "mono",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1001,13 +1167,17 @@
   },
   "multi_touch.svg": {
     "name": "multi touch",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1021,13 +1191,17 @@
   },
   "noise.svg": {
     "name": "noise",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1041,13 +1215,17 @@
   },
   "output.svg": {
     "name": "output",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1061,13 +1239,17 @@
   },
   "pan.svg": {
     "name": "pan",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1081,13 +1263,17 @@
   },
   "patch_cable.svg": {
     "name": "patch cable",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1101,13 +1287,17 @@
   },
   "pause.svg": {
     "name": "pause",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1121,13 +1311,17 @@
   },
   "pedal.svg": {
     "name": "pedal",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1141,13 +1335,17 @@
   },
   "pink_noise.svg": {
     "name": "pink noise",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1161,13 +1359,17 @@
   },
   "play.svg": {
     "name": "play",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1181,13 +1383,17 @@
   },
   "potentiometer.svg": {
     "name": "potentiometer",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1201,13 +1407,17 @@
   },
   "pwm.svg": {
     "name": "pwm",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1221,13 +1431,17 @@
   },
   "ramp.svg": {
     "name": "ramp",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1241,13 +1455,17 @@
   },
   "random.svg": {
     "name": "random",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1261,13 +1479,17 @@
   },
   "range.svg": {
     "name": "range",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1281,13 +1503,17 @@
   },
   "receive.svg": {
     "name": "receive",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1301,13 +1527,17 @@
   },
   "record.svg": {
     "name": "record",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1321,13 +1551,17 @@
   },
   "reset.svg": {
     "name": "reset",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1341,13 +1575,17 @@
   },
   "reverb.svg": {
     "name": "reverb",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1361,13 +1599,17 @@
   },
   "reverse.svg": {
     "name": "reverse",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1381,13 +1623,17 @@
   },
   "rewind.svg": {
     "name": "rewind",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1401,13 +1647,17 @@
   },
   "sample.svg": {
     "name": "sample",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1421,13 +1671,17 @@
   },
   "sawtooth.svg": {
     "name": "sawtooth",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1441,13 +1695,17 @@
   },
   "scale.svg": {
     "name": "scale",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1461,13 +1719,17 @@
   },
   "send.svg": {
     "name": "send",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1481,13 +1743,17 @@
   },
   "sequence.svg": {
     "name": "sequence",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1501,13 +1767,17 @@
   },
   "servo_motor.svg": {
     "name": "servo motor",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1521,13 +1791,17 @@
   },
   "short.svg": {
     "name": "short",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1541,13 +1815,17 @@
   },
   "sine_wave.svg": {
     "name": "sine wave",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1561,13 +1839,17 @@
   },
   "solenoid.svg": {
     "name": "solenoid",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1581,13 +1863,17 @@
   },
   "speaker.svg": {
     "name": "speaker",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1601,13 +1887,17 @@
   },
   "splitter.svg": {
     "name": "splitter",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1621,13 +1911,17 @@
   },
   "square_wave.svg": {
     "name": "square wave",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1641,13 +1935,17 @@
   },
   "stereo.svg": {
     "name": "stereo",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1661,13 +1959,17 @@
   },
   "stop.svg": {
     "name": "stop",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1681,13 +1983,17 @@
   },
   "symbols.svg": {
     "name": "symbols",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1701,13 +2007,17 @@
   },
   "sync.svg": {
     "name": "sync",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1721,13 +2031,17 @@
   },
   "synthesiser.svg": {
     "name": "synthesiser",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1741,13 +2055,17 @@
   },
   "theremin.svg": {
     "name": "theremin",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1761,13 +2079,17 @@
   },
   "tilt.svg": {
     "name": "tilt",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1781,13 +2103,17 @@
   },
   "tin_foil.svg": {
     "name": "tin foil",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1801,13 +2127,17 @@
   },
   "too_loud.svg": {
     "name": "too loud",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1821,13 +2151,17 @@
   },
   "triangle.svg": {
     "name": "triangle",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1841,13 +2175,17 @@
   },
   "tuning_system.svg": {
     "name": "tuning system",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1861,13 +2199,17 @@
   },
   "volume.svg": {
     "name": "volume",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1881,13 +2223,17 @@
   },
   "white_noise.svg": {
     "name": "white noise",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1901,13 +2247,17 @@
   },
   "white_notes.svg": {
     "name": "white notes",
-    "tags": "",
+"tags": [
+  ""
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1921,13 +2271,17 @@
   },
   "fast.svg": {
     "name": "fast",
-    "tags": "iPad_workshops",
+"tags": [
+  "iPad_workshops"
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1941,13 +2295,17 @@
   },
   "on_the_beat.svg": {
     "name": "on the_beat",
-    "tags": "iPad_workshops",
+"tags": [
+  "iPad_workshops"
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1961,13 +2319,17 @@
   },
   "slow.svg": {
     "name": "slow",
-    "tags": "iPad_workshops",
+"tags": [
+  "iPad_workshops"
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -1981,13 +2343,17 @@
   },
   "smart_chords.svg": {
     "name": "smart chords",
-    "tags": "iPad_workshops",
+"tags": [
+  "iPad_workshops"
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -2001,13 +2367,17 @@
   },
   "solo.svg": {
     "name": "solo",
-    "tags": "iPad_workshops",
+"tags": [
+  "iPad_workshops"
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -2021,13 +2391,17 @@
   },
   "solo_down.svg": {
     "name": "solo down",
-    "tags": "iPad_workshops",
+"tags": [
+  "iPad_workshops"
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -2041,13 +2415,17 @@
   },
   "solo_home.svg": {
     "name": "solo home",
-    "tags": "iPad_workshops",
+"tags": [
+  "iPad_workshops"
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -2061,13 +2439,17 @@
   },
   "solo_up.svg": {
     "name": "solo up",
-    "tags": "iPad_workshops",
+  "tags": [
+  "iPad_workshops"
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -2081,13 +2463,17 @@
   },
   "dataflow-object.svg": {
     "name": "dataflow-object",
-    "tags": "dataflow",
+"tags": [
+  "dataflow"
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -2101,13 +2487,17 @@
   },
   "dataflow-outlet.svg": {
     "name": "dataflow-outlet",
-    "tags": "dataflow",
+"tags": [
+  "dataflow"
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -2121,13 +2511,17 @@
   },
   "exponential.svg": {
     "name": "exponential",
-    "tags": "dataflow",
+"tags": [
+  "dataflow"
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
@@ -2141,13 +2535,17 @@
   },
   "linear.svg": {
     "name": "linear",
-    "tags": "dataflow",
+"tags": [
+  "dataflow"
+],
     "description": {
       "short": "",
       "easy": "",
       "long": ""
     },
-    "synonyms": [],
+"synonyms": [
+  ""
+],
     "translations": {
       "Français": "",
       "Bahasa Indonesia": "",
