@@ -1,0 +1,2162 @@
+{
+  "IM_shield.svg": {
+    "name": "IM shield",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "IM_squirrel.svg": {
+    "name": "IM squirrel",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "LDR.svg": {
+    "name": "LDR",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "MIDI_port.svg": {
+    "name": "MIDI port",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "Touch_Board.svg": {
+    "name": "Touch Board",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "arcade_button.svg": {
+    "name": "arcade button",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "barrel_jack.svg": {
+    "name": "barrel jack",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "black_notes.svg": {
+    "name": "black notes",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "bonang.svg": {
+    "name": "bonang",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "buzzer.svg": {
+    "name": "buzzer",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "chaos.svg": {
+    "name": "chaos",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "chip.svg": {
+    "name": "chip",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "chorus.svg": {
+    "name": "chorus",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "circuit_playground.svg": {
+    "name": "circuit playground",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "clock.svg": {
+    "name": "clock",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "cold.svg": {
+    "name": "cold",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "contact_mic.svg": {
+    "name": "contact mic",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "crocodile_clip.svg": {
+    "name": "crocodile clip",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "deck.svg": {
+    "name": "deck",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "dial.svg": {
+    "name": "dial",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "distortion.svg": {
+    "name": "distortion",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "drum_machine.svg": {
+    "name": "drum machine",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "echo.svg": {
+    "name": "echo",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "edit.svg": {
+    "name": "edit",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "envelope.svg": {
+    "name": "envelope",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "fader.svg": {
+    "name": "fader",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "fast_forward.svg": {
+    "name": "fast forward",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "feedback.svg": {
+    "name": "feedback",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "filter.svg": {
+    "name": "filter",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "fizzy.svg": {
+    "name": "fizzy",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "gong.svg": {
+    "name": "gong",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "grains.svg": {
+    "name": "grains",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "guitar.svg": {
+    "name": "guitar",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "headphones.svg": {
+    "name": "headphones",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "input.svg": {
+    "name": "input",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "instrument_maker_shield.svg": {
+    "name": "instrument maker_shield",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "jack_plug.svg": {
+    "name": "jack plug",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "jack_plug_(mono).svg": {
+    "name": "jack plug_(mono)",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "jack_plug_(stereo).svg": {
+    "name": "jack plug_(stereo)",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "jumper_lead.svg": {
+    "name": "jumper lead",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "keyboard.svg": {
+    "name": "keyboard",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "lazy_susan.svg": {
+    "name": "lazy susan",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "light.svg": {
+    "name": "light",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "long.svg": {
+    "name": "long",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "loop.svg": {
+    "name": "loop",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "map.svg": {
+    "name": "map",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "microphone.svg": {
+    "name": "microphone",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "mixer.svg": {
+    "name": "mixer",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "mobile.svg": {
+    "name": "mobile",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "mono.svg": {
+    "name": "mono",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "multi_touch.svg": {
+    "name": "multi touch",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "noise.svg": {
+    "name": "noise",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "output.svg": {
+    "name": "output",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "pan.svg": {
+    "name": "pan",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "patch_cable.svg": {
+    "name": "patch cable",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "pause.svg": {
+    "name": "pause",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "pedal.svg": {
+    "name": "pedal",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "pink_noise.svg": {
+    "name": "pink noise",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "play.svg": {
+    "name": "play",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "potentiometer.svg": {
+    "name": "potentiometer",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "pwm.svg": {
+    "name": "pwm",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "ramp.svg": {
+    "name": "ramp",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "random.svg": {
+    "name": "random",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "range.svg": {
+    "name": "range",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "receive.svg": {
+    "name": "receive",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "record.svg": {
+    "name": "record",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "reset.svg": {
+    "name": "reset",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "reverb.svg": {
+    "name": "reverb",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "reverse.svg": {
+    "name": "reverse",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "rewind.svg": {
+    "name": "rewind",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "sample.svg": {
+    "name": "sample",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "sawtooth.svg": {
+    "name": "sawtooth",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "scale.svg": {
+    "name": "scale",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "send.svg": {
+    "name": "send",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "sequence.svg": {
+    "name": "sequence",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "servo_motor.svg": {
+    "name": "servo motor",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "short.svg": {
+    "name": "short",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "sine_wave.svg": {
+    "name": "sine wave",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "solenoid.svg": {
+    "name": "solenoid",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "speaker.svg": {
+    "name": "speaker",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "splitter.svg": {
+    "name": "splitter",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "square_wave.svg": {
+    "name": "square wave",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "stereo.svg": {
+    "name": "stereo",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "stop.svg": {
+    "name": "stop",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "symbols.svg": {
+    "name": "symbols",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "sync.svg": {
+    "name": "sync",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "synthesiser.svg": {
+    "name": "synthesiser",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "theremin.svg": {
+    "name": "theremin",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "tilt.svg": {
+    "name": "tilt",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "tin_foil.svg": {
+    "name": "tin foil",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "too_loud.svg": {
+    "name": "too loud",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "triangle.svg": {
+    "name": "triangle",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "tuning_system.svg": {
+    "name": "tuning system",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "volume.svg": {
+    "name": "volume",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "white_noise.svg": {
+    "name": "white noise",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "white_notes.svg": {
+    "name": "white notes",
+    "tags": "",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "misc"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "fast.svg": {
+    "name": "fast",
+    "tags": "iPad_workshops",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "iPad_workshops"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "on_the_beat.svg": {
+    "name": "on the_beat",
+    "tags": "iPad_workshops",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "iPad_workshops"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "slow.svg": {
+    "name": "slow",
+    "tags": "iPad_workshops",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "iPad_workshops"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "smart_chords.svg": {
+    "name": "smart chords",
+    "tags": "iPad_workshops",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "iPad_workshops"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "solo.svg": {
+    "name": "solo",
+    "tags": "iPad_workshops",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "iPad_workshops"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "solo_down.svg": {
+    "name": "solo down",
+    "tags": "iPad_workshops",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "iPad_workshops"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "solo_home.svg": {
+    "name": "solo home",
+    "tags": "iPad_workshops",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "iPad_workshops"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "solo_up.svg": {
+    "name": "solo up",
+    "tags": "iPad_workshops",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "iPad_workshops"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "dataflow-object.svg": {
+    "name": "dataflow-object",
+    "tags": "dataflow",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "dataflow"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "dataflow-outlet.svg": {
+    "name": "dataflow-outlet",
+    "tags": "dataflow",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "dataflow"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "exponential.svg": {
+    "name": "exponential",
+    "tags": "dataflow",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "dataflow"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  },
+  "linear.svg": {
+    "name": "linear",
+    "tags": "dataflow",
+    "description": {
+      "short": "",
+      "easy": "",
+      "long": ""
+    },
+    "synonyms": [],
+    "translations": {
+      "Français": "",
+      "Bahasa Indonesia": "",
+      "Deutsch": ""
+    },
+    "packages": [
+      "dataflow"
+    ],
+    "author": "Charles Matthews",
+    "related": ""
+  }
+}
