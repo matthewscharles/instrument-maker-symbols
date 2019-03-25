@@ -1,50 +1,68 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
   <defs/>
   <metadata> Produced by OmniGraffle 7.9.4 
-    <dc:date>2019-03-14 13:04:49 +0000</dc:date>
+    <dc:date>2019-03-25 01:01:00 +0000</dc:date>
   </metadata>
-  <g id="fast_solo" fill-opacity="1" stroke-dasharray="none" stroke-opacity="1" stroke="none" fill="none">
+  <g id="fast_solo" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1" stroke="none">
     <title>fast solo</title>
+    <g id="Shared_1: Master layer">
+      <title>Master layer</title>
+      <g id="Graphic_10">
+        <rect x="120.82123" y="197.14965" width="606.82846" height="454.742" fill="white"/>
+        <rect x="120.82123" y="197.14965" width="606.82846" height="454.742" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+      <g id="Graphic_9">
+        <rect x="340.91913" y="197.14965" width="55.259895" height="454.742" fill="#942092" fill-opacity=".5"/>
+        <rect x="340.91913" y="197.14965" width="55.259895" height="454.742" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_5">
+        <rect x="120.82123" y="197.05993" width="55.259895" height="454.742" fill="red" fill-opacity=".502393"/>
+        <rect x="120.82123" y="197.05993" width="55.259895" height="454.742" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_4">
+        <rect x="176.08113" y="197.05993" width="55.259895" height="454.742" fill="#ff9300" fill-opacity=".4963826"/>
+        <rect x="176.08113" y="197.05993" width="55.259895" height="454.742" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_3">
+        <rect x="230.8845" y="197.83555" width="55.259895" height="454.0241" fill="#fffc00" fill-opacity=".5"/>
+        <rect x="230.8845" y="197.83555" width="55.259895" height="454.0241" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_2">
+        <rect x="285.2353" y="197.10512" width="55.259895" height="454.742" fill="blue" fill-opacity=".5"/>
+        <rect x="285.2353" y="197.10512" width="55.259895" height="454.742" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_15">
+        <rect x="616.70086" y="197.2074" width="55.259895" height="454.742" fill="#942092" fill-opacity=".5"/>
+        <rect x="616.70086" y="197.2074" width="55.259895" height="454.742" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_14">
+        <rect x="396.60296" y="197.11768" width="55.259895" height="454.742" fill="red" fill-opacity=".502393"/>
+        <rect x="396.60296" y="197.11768" width="55.259895" height="454.742" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_13">
+        <rect x="451.86286" y="197.11768" width="55.259895" height="454.742" fill="#ff9300" fill-opacity=".496383"/>
+        <rect x="451.86286" y="197.11768" width="55.259895" height="454.742" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_12">
+        <rect x="506.6662" y="197.83555" width="55.259895" height="454.08187" fill="#fffc00" fill-opacity=".5"/>
+        <rect x="506.6662" y="197.83555" width="55.259895" height="454.08187" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_11">
+        <rect x="561.017" y="197.16288" width="55.259895" height="454.742" fill="blue" fill-opacity=".5"/>
+        <rect x="561.017" y="197.16288" width="55.259895" height="454.742" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_16">
+        <rect x="672.3898" y="197.2074" width="55.259895" height="454.742" fill="red" fill-opacity=".502393"/>
+        <rect x="672.3898" y="197.2074" width="55.259895" height="454.742" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_17">
+        <rect x="122.74431" y="198.5921" width="606.82846" height="454.742" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+      </g>
+    </g>
     <g id="fast_solo: Layer 1">
       <title>Layer 1</title>
-      <g id="Graphic_29">
-        <rect x="273" y="201.12397" width="439.53823" height="469.6124" fill="white"/>
-        <rect x="273" y="201.12397" width="439.53823" height="469.6124" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      </g>
-      <g id="Graphic_28">
-        <rect x="493.0979" y="201.12397" width="55.259895" height="469.6124" fill="red" fill-opacity=".502393"/>
-        <rect x="493.0979" y="201.12397" width="55.259895" height="469.6124" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      </g>
-      <g id="Graphic_27">
-        <rect x="548.3578" y="201.12397" width="55.259895" height="469.6124" fill="#68bc36" fill-opacity=".503576"/>
-        <rect x="548.3578" y="201.12397" width="55.259895" height="469.6124" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      </g>
-      <g id="Graphic_26">
-        <rect x="602.2521" y="201.729" width="55.259895" height="467.64174" fill="lime" fill-opacity=".500853"/>
-        <rect x="602.2521" y="201.729" width="55.259895" height="467.64174" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      </g>
-      <g id="Graphic_25">
-        <rect x="657.512" y="201.12397" width="55.259895" height="468.13753" fill="#9662d0" fill-opacity=".502668"/>
-        <rect x="657.512" y="201.12397" width="55.259895" height="468.13753" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      </g>
-      <g id="Graphic_24">
-        <rect x="273" y="200" width="55.259895" height="469.6124" fill="red" fill-opacity=".502393"/>
-        <rect x="273" y="200" width="55.259895" height="469.6124" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      </g>
-      <g id="Graphic_23">
-        <rect x="328.2599" y="200" width="55.259895" height="469.6124" fill="#68bc36" fill-opacity=".503576"/>
-        <rect x="328.2599" y="200" width="55.259895" height="469.6124" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      </g>
-      <g id="Graphic_22">
-        <rect x="382.15417" y="200.60504" width="55.259895" height="467.64174" fill="lime" fill-opacity=".500853"/>
-        <rect x="382.15417" y="200.60504" width="55.259895" height="467.64174" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      </g>
-      <g id="Graphic_21">
-        <rect x="437.41407" y="200" width="55.259895" height="468.13753" fill="#9662d0" fill-opacity=".502668"/>
-        <rect x="437.41407" y="200" width="55.259895" height="468.13753" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      </g>
       <g id="Graphic_20">
         <path d="M 235.7804 266.1908 L 243.0154 266.39176 C 250.42534 266.5976 257.8384 266.11638 265.15955 264.9543 L 299.11665 259.56427 C 299.11665 259.56427 331.2327 251 331.94637 251 C 332.66006 251 366.20347 257.4232 366.20347 257.4232 L 388.32784 255.28214 C 388.32784 255.28214 323.3821 273.83806 322.6684 274.55175 C 321.9547 275.26544 269.1417 278.1202 269.1417 278.1202 L 262.0048 283.47287 C 260.71156 284.4428 260.44946 286.27747 261.4194 287.5707 C 261.978 288.31553 262.85764 288.75017 263.78863 288.7414 L 305.73287 288.3457 C 322.08327 288.19144 338.2917 291.39097 353.35705 297.74666 L 376.1951 307.38147 C 376.1951 307.38147 404.7427 298.8172 405.4564 298.8172 C 406.1701 298.8172 441.14086 290.25292 441.14086 290.25292 L 409.7385 306.66778 C 409.7385 306.66778 373.34036 318.0868 373.34036 318.8005 C 373.34036 319.5142 337.6559 316.65943 336.9422 316.65943 C 336.2285 316.65943 304.11248 318.0868 304.11248 318.0868 L 296.9756 320.22788 C 296.9756 320.22788 371.913 330.93322 371.913 331.6469 C 371.913 332.3606 458.2694 317.37312 458.2694 317.37312 L 477.539 319.5142 C 479.6436 319.74803 481.16015 321.6437 480.9263 323.7483 C 480.7547 325.29265 479.66796 326.58074 478.1745 327.0099 L 438.3638 338.44976 C 435.93364 339.14808 433.5262 339.92303 431.145 340.77345 L 414.73435 346.6344 C 414.73435 346.6344 351.92968 378.7504 351.216 378.7504 C 350.5023 378.7504 233.45722 312.3773 233.45722 311.6636 C 233.45722 310.9499 217.75605 275.97913 217.75605 275.97913 L 223.10872 270.9833 C 226.53844 267.78224 231.09076 266.06052 235.7804 266.1908 Z" fill="#632f1f"/>
         <path d="M 235.7804 266.1908 L 243.0154 266.39176 C 250.42534 266.5976 257.8384 266.11638 265.15955 264.9543 L 299.11665 259.56427 C 299.11665 259.56427 331.2327 251 331.94637 251 C 332.66006 251 366.20347 257.4232 366.20347 257.4232 L 388.32784 255.28214 C 388.32784 255.28214 323.3821 273.83806 322.6684 274.55175 C 321.9547 275.26544 269.1417 278.1202 269.1417 278.1202 L 262.0048 283.47287 C 260.71156 284.4428 260.44946 286.27747 261.4194 287.5707 C 261.978 288.31553 262.85764 288.75017 263.78863 288.7414 L 305.73287 288.3457 C 322.08327 288.19144 338.2917 291.39097 353.35705 297.74666 L 376.1951 307.38147 C 376.1951 307.38147 404.7427 298.8172 405.4564 298.8172 C 406.1701 298.8172 441.14086 290.25292 441.14086 290.25292 L 409.7385 306.66778 C 409.7385 306.66778 373.34036 318.0868 373.34036 318.8005 C 373.34036 319.5142 337.6559 316.65943 336.9422 316.65943 C 336.2285 316.65943 304.11248 318.0868 304.11248 318.0868 L 296.9756 320.22788 C 296.9756 320.22788 371.913 330.93322 371.913 331.6469 C 371.913 332.3606 458.2694 317.37312 458.2694 317.37312 L 477.539 319.5142 C 479.6436 319.74803 481.16015 321.6437 480.9263 323.7483 C 480.7547 325.29265 479.66796 326.58074 478.1745 327.0099 L 438.3638 338.44976 C 435.93364 339.14808 433.5262 339.92303 431.145 340.77345 L 414.73435 346.6344 C 414.73435 346.6344 351.92968 378.7504 351.216 378.7504 C 350.5023 378.7504 233.45722 312.3773 233.45722 311.6636 C 233.45722 310.9499 217.75605 275.97913 217.75605 275.97913 L 223.10872 270.9833 C 226.53844 267.78224 231.09076 266.06052 235.7804 266.1908 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="350" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-03-24 13:45:22 +0000</dc:date>
+  </metadata>
+  <g id="note_g" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1" stroke="none">
+    <title>note g</title>
+    <g id="note_g: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_3">
+        <path d="M 710.0859 140.30809 C 867.4266 297.64795 867.4266 552.74605 710.0859 710.0859 C 552.74605 867.4266 297.64795 867.4266 140.30809 710.0859 C -17.032578 552.74605 -17.032578 297.64795 140.30809 140.30809 C 297.64795 -17.032578 552.74605 -17.032578 710.0859 140.30809" fill="blue"/>
+        <path d="M 710.0859 140.30809 C 867.4266 297.64795 867.4266 552.74605 710.0859 710.0859 C 552.74605 867.4266 297.64795 867.4266 140.30809 710.0859 C -17.032578 552.74605 -17.032578 297.64795 140.30809 140.30809 C 297.64795 -17.032578 552.74605 -17.032578 710.0859 140.30809" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="14"/>
+      </g>
+      <g id="Graphic_4">
+        <text transform="translate(292.8272 216.29702)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="350" font-weight="400" fill="black" x=".175" y="333">G</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
