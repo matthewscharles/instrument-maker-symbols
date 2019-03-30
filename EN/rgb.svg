@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-03-30 19:05:07 +0000</dc:date>
+  </metadata>
+  <g id="rgb" stroke-dasharray="none" stroke-opacity="1" fill-opacity="1" fill="none" stroke="none">
+    <title>rgb</title>
+    <g id="rgb: Layer 1">
+      <title>Layer 1</title>
+      <g id="Line_3">
+        <line x1="440.1888" y1="75.797485" x2="440.1888" y2="426.62806" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4">
+        <line x1="744.017" y1="602.04335" x2="440.1888" y2="426.62806" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_6">
+        <line x1="137.77638" y1="602.04335" x2="441.6046" y2="426.62806" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_7">
+        <path d="M 443 76 L 440.61777 427.3437 L 746.4295 602.9023 L 790.3192 468.40175 L 778.9928 325.40643 L 716.6978 210.72702 L 643.0765 138.52146 L 539.7234 90.38442 Z" fill="red"/>
+        <path d="M 443 76 L 440.61777 427.3437 L 746.4295 602.9023 L 790.3192 468.40175 L 778.9928 325.40643 L 716.6978 210.72702 L 643.0765 138.52146 L 539.7234 90.38442 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="17"/>
+      </g>
+      <g id="Graphic_8">
+        <path d="M 745 602 L 441.8738 428.7595 L 136.92969 605.82094 L 231.46575 711.0808 L 360.9665 772.7695 L 491.4293 776.1602 L 590.7718 748.505 L 652 714 L 684.1362 683.06714 Z" fill="lime"/>
+        <path d="M 745 602 L 441.8738 428.7595 L 136.92969 605.82094 L 231.46575 711.0808 L 360.9665 772.7695 L 491.4293 776.1602 L 590.7718 748.505 L 652 714 L 684.1362 683.06714 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="17"/>
+      </g>
+      <g id="Graphic_9">
+        <path d="M 137 604 L 438.8316 428.6296 L 437.96393 76.00955 L 299.5382 105.25027 L 181.36382 186.55685 L 113.19603 297.8456 L 87.47485 397.70634 L 97.46348 511.2812 Z" fill="blue"/>
+        <path d="M 137 604 L 438.8316 428.6296 L 437.96393 76.00955 L 299.5382 105.25027 L 181.36382 186.55685 L 113.19603 297.8456 L 87.47485 397.70634 L 97.46348 511.2812 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="17"/>
+      </g>
+      <g id="Graphic_2">
+        <path d="M 689.6743 178.84495 C 827.0712 316.2411 827.0712 539.0041 689.6743 676.40025 C 552.2782 813.7971 329.51518 813.7971 192.11903 676.40025 C 54.72217 539.0041 54.72217 316.2411 192.11903 178.84495 C 329.51518 41.448096 552.2782 41.448096 689.6743 178.84495" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"/>
+      </g>
+    </g>
+  </g>
+</svg>

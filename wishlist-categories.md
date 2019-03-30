@@ -1,23 +1,28 @@
 In this list you may notice that I'm not necessarily trying to simplify concepts.  Difficulties in reading printed text do not always mean difficulty in comprehension through other media! 
 
+Todo: convert these to a .csv list so that we can start adding other info?
+
+Should we have an image for each category?
+
 ## Workshops
 
 Some of these can probably be borrowed from more generic symbol sets:
 
 - listen
+- feel
 - quiet
 - loud
 - start
 - stop
-- chaos
+- ~~chaos~~
 - gesture
 
 ### Gestures
 
 - hover
-- copy
-- swipe
-- tap
+- ~~copy~~
+- ~~swipe~~
+- ~~tap~~
 
 ### Exercises / ways of listening
 
@@ -31,7 +36,7 @@ Some of these can probably be borrowed from more generic symbol sets:
 
 - (Android) tablet
 - iPad
-- smart chord
+- ~~smart chord~~
 - note grid
 - app titles? e.g.
   - Thumbjam
@@ -42,8 +47,8 @@ Some of these can probably be borrowed from more generic symbol sets:
 
 ### Instruments
 
-- no-input mixer
-- switch
+- ~~no-input mixer~~
+- ~~switch~~
 - tablet
 - proximity sensor
   - theremin
@@ -56,26 +61,26 @@ Some of these can probably be borrowed from more generic symbol sets:
 
 ### Studio/controls
 
-- mixer
-- controller
+- ~~mixer~~
+- ~~controller~~
 
 ## Effects
 
-- reverb
-- distortion
-- echo
+- ~~reverb~~
+- ~~distortion~~
+- ~~echo~~
 - delay
-- feedback
+- ~~feedback~~
 - pitch shifter
 
 ## Waves
 
-- sine
-- square
-- sawtooth
-- noise
-  - white noise
-  - pink noise
+- ~~sine~~
+- ~~square~~
+- ~~sawtooth~~
+- ~~noise~~
+  - ~~white noise~~
+  - ~~pink noise~~
 - brainwaves
 - binaural beats
 
@@ -85,20 +90,20 @@ Some of these can probably be borrowed from more generic symbol sets:
 - tape
 - record
 
-## Transport
+## ~~Transport~~
 
-- play
-- stop
-- pause
-- rewind
-- fast forward
+- ~~play~~
+- ~~stop~~
+- ~~pause~~
+- ~~rewind~~
+- ~~fast forward~~
 
 ## Crip the dataflow
 
 - message
 - object
-- inlet
-- outlet
+- ~~inlet~~
+- ~~outlet~~
 - hot
 - cold
 - max
@@ -112,11 +117,11 @@ Some of these can probably be borrowed from more generic symbol sets:
 
 ### Instrument maker: signals/flow
 
-- input
-- output
-- mono
-- stereo
-- scale
+- ~~input~~
+- ~~output~~
+- ~~mono~~
+- ~~stereo~~
+- ~~scale~~
 - chord
 
 ## Hardware
@@ -125,7 +130,7 @@ Some of these can probably be borrowed from more generic symbol sets:
 - gaffer tape
 - breadboard
 - circuit
-- jumper
+- ~~jumper~~
 - cable
 - header
   - dupont
@@ -138,12 +143,13 @@ Some of these can probably be borrowed from more generic symbol sets:
 - radio
 - banana plug
 - sensor
-- arcade button
+- ~~arcade button~~
 - flex sensor
 - soft pot
 - actuator
-- LDR
-- LED
+- ~~LDR~~
+- ~~LED~~
+- ~~neopixel~~
 - solder
   - cold solder
 - electric/conductive paint
@@ -152,16 +158,16 @@ Some of these can probably be borrowed from more generic symbol sets:
 - Bela
 - Arduino
 - LilyPad
-- Touch Board
-- Circuit Playground
+- ~~Touch Board~~
+- ~~Circuit Playground~~
 - Kinect
 - midi interface
 
-### Interfaces
+### ~~Interfaces~~
 
-- potentiometer
-- dial
-- fader
+- ~~potentiometer~~
+- ~~dial~~
+- ~~fader~~
 
 ### Wider making 
 
@@ -194,14 +200,14 @@ Some of these can probably be borrowed from more generic symbol sets:
 - envelope
 - (arduino) shield
 - proximity
-- sync/synchronise
+- ~~sync/synchronise~~
 - ring modulator
 - connect
 - wheel (verb)
 - filter delay
 - hpf
 - lpf 
-- LFO
+- ~~LFO~~
 - module
 - modular synth
 - rack
@@ -209,24 +215,42 @@ Some of these can probably be borrowed from more generic symbol sets:
 - vibrotactile
 - buzz
 - zero crossing
-- pan
+- ~~pan~~
 
-## Cards from Exchanging Notes / Drake Music blog
+- 
 
-- play: down
-- play: up
-- play: short
-- play: long
-- play: pick 3 notes
-- play: short + long
-- play: trill
-- play: random
-- play: round trip
-- play: fast
-- play: slow
-- play: on the beat
+## Engage and Interact
+
+- interact
+- cello
+- ~~RGB~~
+- ~~envelope follower~~
+- colour scale
 
 ## Additional cards/cues from accessible music technology training booklet
 
 - guided access
+
+### Vowel sounds
+
+- a
+- i
+- u
+- e
+- o
+
+### ~~Cards from Exchanging Notes / Drake Music blog~~
+
+- ~~play: down~~
+- ~~play: up~~
+- ~~play: short~~
+- ~~play: long~~
+- ~~play: pick 3 notes~~
+- ~~play: short + long~~
+- ~~play: trill~~
+- ~~play: random~~
+- ~~play: round trip~~
+- ~~play: fast~~
+- ~~play: slow~~
+- ~~play: on the beat~~
 

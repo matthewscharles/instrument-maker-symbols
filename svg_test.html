@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>svg manipulation</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <object data="EN/tin_foil.svg" class="svgClass" type="image/svg+xml" id="tester"/>
+    <script>
+      var title = $('tester').find('title').text();
+      console.log(title);
+      document.querySelector(".svgClass").getSVGDocument().getElementById("Graphic_5").setAttribute("fill", "red")
+    </script>
+  </body>
+</html>
