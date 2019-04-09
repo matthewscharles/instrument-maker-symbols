@@ -1,4 +1,4 @@
-In this list you may notice that I'm not necessarily trying to simplify concepts.  Difficulties in reading printed text do not always mean difficulty in comprehension through other media! 
+~~In~~ this list you may notice that I'm not necessarily trying to simplify concepts.  Difficulties in reading printed text do not always mean difficulty in comprehension through other media! 
 
 Todo: convert these to a .csv list so that we can start adding other info?
 
@@ -137,11 +137,11 @@ Some of these can probably be borrowed from more generic symbol sets:
   - jst
 - battery
   - lipo
-  - power bank
+  - ~~power bank~~
 - USB
 - wireless
 - radio
-- banana plug
+- ~~banana plug~~
 - sensor
 - ~~arcade button~~
 - flex sensor
