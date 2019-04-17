@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-04-17 13:40:09 +0000</dc:date>
+  </metadata>
+  <g id="electrode" stroke-opacity="1" stroke="none" fill="none" fill-opacity="1" stroke-dasharray="none">
+    <title>electrode</title>
+    <g id="electrode: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <rect x="182.697" y="182.697" width="485" height="485" fill="yellow"/>
+        <rect x="182.697" y="182.697" width="485" height="485" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+      <g id="Line_3">
+        <path d="M 548 670 L 572.69115 715.0928 C 579.02784 726.6654 587.83145 736.7032 598.4785 744.4953 L 614.5247 756.2389 C 630.5708 767.9825 650.05435 774.0814 669.9325 773.58325 L 745.0735 771.7002 C 768.5441 771.1121 790.5517 783.0679 802.832 803.0781 L 822.6719 835.40625 L 822.6719 835.40625" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      </g>
+      <g id="Graphic_4">
+        <path d="M 571.9215 278.4725 C 652.95564 359.50624 652.95564 490.88776 571.9215 571.9215 C 490.88776 652.95564 359.50624 652.95564 278.4725 571.9215 C 197.43836 490.88776 197.43836 359.50624 278.4725 278.4725 C 359.50624 197.43836 490.88776 197.43836 571.9215 278.4725" fill="#333"/>
+        <path d="M 571.9215 278.4725 C 652.95564 359.50624 652.95564 490.88776 571.9215 571.9215 C 490.88776 652.95564 359.50624 652.95564 278.4725 571.9215 C 197.43836 490.88776 197.43836 359.50624 278.4725 278.4725 C 359.50624 197.43836 490.88776 197.43836 571.9215 278.4725" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+    </g>
+  </g>
+</svg>

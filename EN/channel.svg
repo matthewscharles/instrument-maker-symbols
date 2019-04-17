@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="black">
+      <g>
+        <path d="M 2.1818182 0 L 0 -.8181818 L 0 .8181818 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-04-17 14:20:40 +0000</dc:date>
+  </metadata>
+  <g id="channel" stroke-opacity="1" stroke="none" fill="none" fill-opacity="1" stroke-dasharray="none">
+    <title>channel</title>
+    <g id="channel: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <rect x="259.197" y="203" width="119" height="535" fill="#8080ff"/>
+        <rect x="259.197" y="203" width="119" height="535" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+      <g id="Graphic_3">
+        <rect x="472.197" y="203" width="119" height="535" fill="#c0c0ff"/>
+        <path d="M 472.197 203 L 591.197 203 L 591.197 738 L 472.197 738 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="28.0,28.0" stroke-width="7"/>
+      </g>
+      <g id="Graphic_4">
+        <rect x="685.197" y="203" width="119" height="535" fill="#c0c0ff"/>
+        <path d="M 685.197 203 L 804.197 203 L 804.197 738 L 685.197 738 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="28.0,28.0" stroke-width="7"/>
+      </g>
+      <g id="Graphic_5">
+        <rect x="46.197" y="203" width="119" height="535" fill="#c0c0ff"/>
+        <path d="M 46.197 203 L 165.197 203 L 165.197 738 L 46.197 738 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="28.0,28.0" stroke-width="7"/>
+      </g>
+      <g id="Line_6">
+        <path d="M 410 32 L 335.84835 154.97426 L 314.24908 426.21354 L 320.95747 793.4204" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="11"/>
+      </g>
+      <g id="Line_7">
+        <path d="M 345.6163 147.91849 L 277.14286 152.85714 L 124.84629 191.59832 L 113.34966 205.25487 L 113.34966 205.25487" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Line_8">
+        <path d="M 341.26842 145.98552 L 416.42857 179.39982 L 522.16115 197.269 L 522.16115 197.269" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Line_9">
+        <path d="M 347.54493 148.7759 L 457.5 167.14286 L 632.5 190.17647 L 748.5781 203" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Line_10">
+        <line x1="113" y1="197" x2="98.51685" y2="179.39982" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_11">
+        <line x1="116" y1="200" x2="116.22518" y2="141.37132" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_12">
+        <line x1="119" y1="200" x2="167.24387" y2="188.00123" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_15">
+        <line x1="516.48315" y1="200" x2="502" y2="182.39982" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_14">
+        <line x1="519.48315" y1="203" x2="515.8039" y2="182.33333" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_13">
+        <line x1="522.48315" y1="203" x2="541.2941" y2="190.17647" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_18">
+        <line x1="739.48315" y1="200" x2="725" y2="182.39982" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_17">
+        <line x1="742.48315" y1="203" x2="742.7083" y2="144.37132" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_16">
+        <line x1="745.48315" y1="203" x2="780.5098" y2="162.72549" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>
