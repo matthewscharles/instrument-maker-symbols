@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-04-22 12:34:51 +0000</dc:date>
+  </metadata>
+  <g id="wireless" stroke-opacity="1" stroke="none" fill-opacity="1" stroke-dasharray="none" fill="none">
+    <title>wireless</title>
+    <g id="wireless: Layer 1">
+      <title>Layer 1</title>
+      <g id="Line_2">
+        <path d="M 55 619 L 226.32682 619 L 226.32682 437.27604 L 227.01042 437.27604" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="19"/>
+      </g>
+      <g id="Line_3">
+        <path d="M 800.0065 619 L 631 619 L 631 437.27604 L 631.6836 437.27604" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="19"/>
+      </g>
+      <g id="Graphic_4">
+        <circle cx="224" cy="338" r="97.0001549964839" fill="#c0ffc0"/>
+        <circle cx="224" cy="338" r="97.0001549964839" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+      <g id="Graphic_5">
+        <circle cx="632" cy="340.27604" r="97.0001549964839" fill="#76bdff"/>
+        <circle cx="632" cy="340.27604" r="97.0001549964839" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+      <g id="Line_6">
+        <path d="M 303.0334 241 L 303.0334 241 C 356.10627 288.10726 361.4187 369.13947 314.95025 422.77257 L 308.0016 430.7926" stroke="#235e00" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g id="Line_7">
+        <path d="M 369.3985 247.52375 L 369.3985 247.52375 C 419.5773 297.70256 420.06346 378.90726 370.48906 429.68327 L 363.07597 437.27604" stroke="#235e00" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+      </g>
+      <g id="Line_8">
+        <path d="M 443.3605 247.52375 L 443.3605 247.52375 C 493.5393 297.70256 494.0255 378.90726 444.45107 429.68327 L 437.038 437.27604" stroke="#235e00" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+      <g id="Line_9">
+        <path d="M 548.9551 433.02833 L 548.9551 433.02833 C 498.77626 382.84953 498.2901 301.64482 547.8645 250.8688 L 555.2776 243.27604" stroke="#003776" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g id="Line_10">
+        <path d="M 488.7132 437.27604 L 488.7132 437.27604 C 438.5344 387.09724 438.0482 305.89253 487.62263 255.11652 L 495.0357 247.52375" stroke="#003776" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+      </g>
+      <g id="Line_11">
+        <path d="M 414.49486 437.27604 L 414.49486 437.27604 C 364.31606 387.09724 363.8299 305.89253 413.4043 255.11652 L 420.8174 247.52375" stroke="#003776" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+    </g>
+  </g>
+</svg>

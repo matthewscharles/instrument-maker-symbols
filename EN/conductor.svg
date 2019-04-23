@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
   <defs/>
   <metadata> Produced by OmniGraffle 7.9.4 
-    <dc:date>2019-03-25 01:01:00 +0000</dc:date>
+    <dc:date>2019-04-23 21:33:10 +0000</dc:date>
   </metadata>
-  <g id="Conductor" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1" stroke="none">
+  <g id="Conductor" stroke-opacity="1" stroke="none" fill-opacity="1" stroke-dasharray="none" fill="none">
     <title>Conductor</title>
     <g id="Conductor: Layer 1">
       <title>Layer 1</title>
@@ -89,10 +89,10 @@
         <path d="M 260.8285 330.3723 L 284.60093 324.01907 L 295.899 319.47662 L 304.80594 328.9562 L 309.2091 332.35335 L 309.2091 332.35335" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
       </g>
       <g id="Line_28">
-        <path d="M 236.06557 379.8982 L 226.00563 423.48096 L 233.41903 444.25087 L 260.8285 449.9773 L 269.98306 429.16096 L 260.8285 422.45175 L 260.8285 422.45175" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path d="M 236.06557 379.8982 L 228.48563 412.7368 C 226.8663 419.7523 227.292 427.08496 229.71233 433.8659 L 229.71233 433.8659 C 232.01486 440.31684 237.50787 445.1051 244.21263 446.5059 L 249.6986 447.652 C 256.1865 449.0075 262.73758 445.6363 265.40578 439.56913 L 267.6985 434.35573 C 269.03318 431.32086 268.0799 427.76617 265.40578 425.80635 L 260.8285 422.45175 L 260.8285 422.45175" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
       </g>
       <g id="Line_27">
-        <path d="M 294.5061 467.31136 L 269.74316 475.04204 L 246.1255 480.4357 L 219.22677 472.8985 L 219.22677 472.8985" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path d="M 294.5061 467.31136 L 271.60732 474.46007 C 270.36502 474.8479 269.10806 475.1871 267.8393 475.47683 L 257.93434 477.7389 C 250.18495 479.50864 242.116 479.3122 234.4619 477.1675 L 219.22677 472.8985 L 219.22677 472.8985" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
       </g>
       <g id="Graphic_26">
         <path d="M 123.68742 363.9626 L 65.24684 605.90044 C 64.55122 608.7802 66.32184 611.6787 69.20163 612.3743 C 71.8537 613.0149 74.56414 611.5628 75.5 609 L 107.5193 521.3164 C 107.83922 520.4403 108.08651 519.53933 108.25864 518.62266 L 133.65238 383.3953 C 134.18514 380.5582 133.40216 377.6326 131.52353 375.44086 L 131.51452 375.43035 C 129.57368 373.16604 128.26266 370.431 127.71306 367.4998 L 127.0662 364.0499 C 126.8903 363.1117 125.98713 362.49376 125.04894 362.66968 C 124.38016 362.79507 123.84719 363.3012 123.68742 363.9626 Z" fill="#feffff"/>
