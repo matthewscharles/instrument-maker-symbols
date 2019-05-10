@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="black">
+      <g>
+        <path d="M 2.1818182 0 L 0 -.8181818 L 0 .8181818 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-05-10 18:30:21 +0000</dc:date>
+  </metadata>
+  <g id="solo_1" fill="none" stroke-opacity="1" fill-opacity="1" stroke="none" stroke-dasharray="none">
+    <title>solo 1</title>
+    <g id="solo_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_22">
+        <rect x="251.42065" y="189" width="134.5527" height="563" fill="lime"/>
+        <rect x="251.42065" y="189" width="134.5527" height="563" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+      <g id="Graphic_2">
+        <rect x="259.197" y="203" width="119" height="535" fill="#8080ff"/>
+        <rect x="259.197" y="203" width="119" height="535" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+      <g id="Graphic_3">
+        <rect x="472.197" y="203" width="119" height="535" fill="#c0c0ff"/>
+        <path d="M 472.197 203 L 591.197 203 L 591.197 738 L 472.197 738 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="28.0,28.0" stroke-width="7"/>
+      </g>
+      <g id="Graphic_4">
+        <rect x="685.197" y="203" width="119" height="535" fill="#c0c0ff"/>
+        <path d="M 685.197 203 L 804.197 203 L 804.197 738 L 685.197 738 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="28.0,28.0" stroke-width="7"/>
+      </g>
+      <g id="Graphic_5">
+        <rect x="46.197" y="203" width="119" height="535" fill="#c0c0ff"/>
+        <path d="M 46.197 203 L 165.197 203 L 165.197 738 L 46.197 738 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="28.0,28.0" stroke-width="7"/>
+      </g>
+      <g id="Line_6">
+        <path d="M 410 32 L 335.84835 154.97426 L 314.24908 426.21354 L 320.95747 793.4204" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="11"/>
+      </g>
+      <g id="Line_7">
+        <path d="M 345.6163 147.91849 L 277.14286 152.85714 L 124.84629 191.59832 L 113.34966 205.25487 L 113.34966 205.25487" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Line_8">
+        <path d="M 341.26842 145.98552 L 416.42857 179.39982 L 522.16115 197.269 L 522.16115 197.269" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Line_9">
+        <path d="M 347.54493 148.7759 L 471.5256 162.24657 L 646.5256 185.28019 L 762.6037 198.10372" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Graphic_23">
+        <path d="M 89.75393 469.48924 L 54.12797 505.1152 L 75.04729 526.0345 L 110.67325 490.40856 L 144.27768 524.013 L 165.197 503.0937 L 131.59256 469.48924 L 163.17548 437.90633 L 142.25616 416.987 L 110.67325 448.5699 L 77.06881 414.9655 L 56.149495 435.8848 Z" fill="red"/>
+        <path d="M 89.75393 469.48924 L 54.12797 505.1152 L 75.04729 526.0345 L 110.67325 490.40856 L 144.27768 524.013 L 165.197 503.0937 L 131.59256 469.48924 L 163.17548 437.90633 L 142.25616 416.987 L 110.67325 448.5699 L 77.06881 414.9655 L 56.149495 435.8848 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+      <g id="Graphic_24">
+        <path d="M 515.6766 460.52375 L 480.05066 496.1497 L 500.97 517.069 L 536.59594 481.44307 L 570.2004 515.0475 L 591.1197 494.1282 L 557.51526 460.52375 L 589.0982 428.94084 L 568.17885 408.0215 L 536.59594 439.60444 L 502.9915 406 L 482.0722 426.9193 Z" fill="red"/>
+        <path d="M 515.6766 460.52375 L 480.05066 496.1497 L 500.97 517.069 L 536.59594 481.44307 L 570.2004 515.0475 L 591.1197 494.1282 L 557.51526 460.52375 L 589.0982 428.94084 L 568.17885 408.0215 L 536.59594 439.60444 L 502.9915 406 L 482.0722 426.9193 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+      <g id="Graphic_25">
+        <path d="M 728.5993 460.52375 L 692.97335 496.1497 L 713.8927 517.069 L 749.5186 481.44307 L 783.1231 515.0475 L 804.0424 494.1282 L 770.4379 460.52375 L 802.0209 428.94084 L 781.1015 408.0215 L 749.5186 439.60444 L 715.9142 406 L 694.9949 426.9193 Z" fill="red"/>
+        <path d="M 728.5993 460.52375 L 692.97335 496.1497 L 713.8927 517.069 L 749.5186 481.44307 L 783.1231 515.0475 L 804.0424 494.1282 L 770.4379 460.52375 L 802.0209 428.94084 L 781.1015 408.0215 L 749.5186 439.60444 L 715.9142 406 L 694.9949 426.9193 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+    </g>
+  </g>
+</svg>

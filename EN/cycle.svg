@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-3 -2 4 4" markerWidth="4" markerHeight="4" color="#ff002c">
+      <g>
+        <path d="M -1.92 0 L 0 .72 L 0 -.72 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-05-10 18:38:10 +0000</dc:date>
+  </metadata>
+  <g id="cycle" fill="none" stroke-opacity="1" fill-opacity="1" stroke="none" stroke-dasharray="none">
+    <title>cycle</title>
+    <g id="cycle: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <path d="M 683.0519 162.39254 C 817.6496 296.98955 817.6496 515.21423 683.0519 649.81124 C 548.4549 784.4089 330.2302 784.4089 195.6332 649.81124 C 61.03551 515.21423 61.03551 296.98955 195.6332 162.39254 C 330.2302 27.79485 548.4549 27.79485 683.0519 162.39254" fill="#c0c0ff"/>
+        <path d="M 683.0519 162.39254 C 817.6496 296.98955 817.6496 515.21423 683.0519 649.81124 C 548.4549 784.4089 330.2302 784.4089 195.6332 649.81124 C 61.03551 515.21423 61.03551 296.98955 195.6332 162.39254 C 330.2302 27.79485 548.4549 27.79485 683.0519 162.39254" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="11"/>
+      </g>
+      <g id="Line_4">
+        <line x1="49" y1="416.1111" x2="189.77778" y2="416.1111" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Line_5">
+        <line x1="691.44444" y1="416.1111" x2="832.2222" y2="416.1111" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Line_7">
+        <line x1="441.8889" y1="668.2222" x2="441.8889" y2="809" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Line_8">
+        <line x1="199.1111" y1="163.33333" x2="285.87044" y2="250.09266" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_9">
+        <line x1="595.0404" y1="559.26265" x2="681.7998" y2="646.022" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_11">
+        <line x1="285.87044" y1="560.8376" x2="199.1111" y2="647.5969" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_6">
+        <line x1="441.8889" y1="25.777778" x2="441.8889" y2="166.55556" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Line_16">
+        <path d="M 357.2838 574.4539 L 371.99906 582.0816 C 429.92477 612.1073 500.1592 604.80285 550.66667 563.5 L 609.61535 515.2943 C 625.5239 502.285 637.7754 485.3617 645.1667 466.1864 L 649.46606 455.03245 C 654.1005 443.0093 657.2282 430.45855 658.7778 417.66667 L 658.7778 417.66667" marker-start="url(#FilledArrow_Marker)" stroke="#ff002c" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="20.0,80.0" stroke-width="20"/>
+      </g>
+      <g id="Line_18">
+        <path d="M 339.94423 242.0397 L 321.8954 247.8102 C 289.89376 258.04162 264.01393 281.8339 251.1335 312.86423 L 251.1335 312.86423 C 237.75748 345.08844 231.60028 379.85087 233.09454 414.70893 L 234.0241 436.3936 C 236.03142 483.22086 260.50098 526.2052 299.74196 551.83656 L 311.1111 559.26265" marker-start="url(#FilledArrow_Marker)" stroke="#ff002c" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="20.0,80.0" stroke-width="20"/>
+      </g>
+      <g id="Line_20">
+        <path d="M 647.149 382.8744 L 644.4823 349.9857 C 642.1436 321.1413 630.9765 293.71747 612.5 271.44444 L 607.0965 264.9306 C 592.24305 247.0251 571.59095 234.8833 548.7222 230.6111 L 526.7502 226.50645 C 517.8073 224.8358 508.82045 223.40953 499.7997 222.22925 L 471.7222 218.55556 C 444.34625 214.97365 416.51346 217.71677 390.36345 226.57403 L 381.8889 229.44444" marker-start="url(#FilledArrow_Marker)" stroke="#ff002c" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="20.0,80.0" stroke-width="20"/>
+      </g>
+      <g id="Line_21">
+        <line x1="686.4858" y1="163.33333" x2="599.7265" y2="250.09266" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>
