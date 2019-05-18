@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 4 4" markerWidth="4" markerHeight="4" color="white">
+      <g>
+        <path d="M 1.9764706 0 L 0 -.7411765 L 0 .7411765 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-3 -2 4 4" markerWidth="4" markerHeight="4" color="white">
+      <g>
+        <path d="M -1.9764706 0 L 0 .7411765 L 0 -.7411765 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-05-18 01:59:10 +0000</dc:date>
+  </metadata>
+  <g id="fader_mono" stroke-dasharray="none" fill-opacity="1" stroke="none" fill="none" stroke-opacity="1">
+    <title>fader mono</title>
+    <g id="fader_mono: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_36">
+        <path d="M 511.5 49 L 698.8239 157.1515 L 319.3239 814.4648 L 132 706.3133 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+      </g>
+      <g id="Graphic_3">
+        <path d="M 563.3404 117.03519 L 578.5011 125.78824 L 232.00113 725.94384 L 216.8404 717.1908 Z" fill="white"/>
+        <path d="M 563.3404 117.03519 L 578.5011 125.78824 L 232.00113 725.94384 L 216.8404 717.1908 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+      </g>
+      <g id="Graphic_4">
+        <path d="M 472.7346 208.343 L 551.9951 254.5978 L 498.8518 325.7941 L 463.00653 407.08523 L 383.74605 360.83043 L 435.4654 290.94363 Z" fill="black"/>
+        <path d="M 472.7346 208.343 L 551.9951 254.5978 L 498.8518 325.7941 L 463.00653 407.08523 L 383.74605 360.83043 L 435.4654 290.94363 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      </g>
+      <g id="Graphic_6">
+        <path d="M 495.22235 321.0545 L 496.60034 317.37277 L 464.6091 306.56937 L 442.2834 297.0433 L 440.90543 300.72502 Z" fill="black"/>
+        <path d="M 495.22235 321.0545 L 496.60034 317.37277 L 464.6091 306.56937 L 442.2834 297.0433 L 440.90543 300.72502 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Graphic_7">
+        <circle cx="306.79845" cy="724.6011" r="19.0615285639126" fill="black"/>
+        <circle cx="306.79845" cy="724.6011" r="19.0615285639126" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Graphic_8">
+        <circle cx="332.03307" cy="680.89346" r="19.0615285639126" fill="black"/>
+        <circle cx="332.03307" cy="680.89346" r="19.0615285639126" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Graphic_9">
+        <circle cx="357.2677" cy="637.1858" r="19.0615285639126" fill="black"/>
+        <circle cx="357.2677" cy="637.1858" r="19.0615285639126" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Graphic_10">
+        <circle cx="382.5023" cy="593.47815" r="19.0615285639126" fill="black"/>
+        <circle cx="382.5023" cy="593.47815" r="19.0615285639126" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Graphic_11">
+        <circle cx="407.73695" cy="549.7705" r="19.0615285639126" fill="black"/>
+        <circle cx="407.73695" cy="549.7705" r="19.0615285639126" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_37">
+        <line x1="123.04645" y1="580.6883" x2="312.29594" y2="282.77645" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="17"/>
+      </g>
+    </g>
+  </g>
+</svg>

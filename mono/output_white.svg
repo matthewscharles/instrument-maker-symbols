@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-05-18 01:59:10 +0000</dc:date>
+  </metadata>
+  <g id="output_mono" stroke-dasharray="none" fill-opacity="1" stroke="none" fill="none" stroke-opacity="1">
+    <title>output_mono</title>
+    <g id="output_mono: Layer 1">
+      <title>Layer 1</title>
+      <g id="Group_19">
+        <g id="Graphic_2">
+          <path d="M 233.98292 500.32893 C 128.37772 394.72427 128.37772 223.50543 233.98292 117.90077 C 339.58758 12.295565 510.8064 12.295565 616.4111 117.90077 C 722.0163 223.50543 722.0163 394.72427 616.4111 500.32893 C 510.8064 605.9341 339.58758 605.9341 233.98292 500.32893" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_4">
+          <path d="M 277.87596 456.4359 C 196.51235 375.0727 196.51235 243.157 277.87596 161.7938 C 359.23915 80.4302 491.15485 80.4302 572.51804 161.7938 C 653.88165 243.157 653.88165 375.0727 572.51804 456.4359 C 491.15485 537.7995 359.23915 537.7995 277.87596 456.4359" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        </g>
+        <g id="Graphic_8">
+          <ellipse cx="425.197" cy="281.7051" rx="60.5406388436123" ry="30.2703194218062" fill="white"/>
+          <ellipse cx="425.197" cy="281.7051" rx="60.5406388436123" ry="30.2703194218062" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        </g>
+        <g id="Graphic_17">
+          <path d="M 411.394 281.394 L 444.394 283.394 L 459.394 662.394 L 564.394 682.1643 L 421.591 811.697 L 282.394 672.1643 L 390.394 666.394 Z" fill="white"/>
+          <path d="M 411.394 281.394 L 444.394 283.394 L 459.394 662.394 L 564.394 682.1643 L 421.591 811.697 L 282.394 672.1643 L 390.394 666.394 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="28"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

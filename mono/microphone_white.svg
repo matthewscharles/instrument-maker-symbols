@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-05-18 02:15:06 +0000</dc:date>
+  </metadata>
+  <g id="microphone" stroke-dasharray="none" fill-opacity="1" stroke="none" fill="none" stroke-opacity="1">
+    <title>microphone</title>
+    <g id="microphone: Layer 1">
+      <title>Layer 1</title>
+      <g id="Line_2">
+        <path d="M 583.74426 604.5963 L 619.3144 663.6055 L 698.9082 688.307 L 748.3112 726.7316" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="17"/>
+      </g>
+      <g id="Graphic_4">
+        <circle cx="277.57863" cy="304.57863" r="119.578822380603" fill="white"/>
+        <circle cx="277.57863" cy="304.57863" r="119.578822380603" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"/>
+      </g>
+      <g id="Graphic_3">
+        <path d="M 400.571 313.78445 L 589.3527 563.3076 C 604.4028 578.35764 607.93405 577.8579 575.5478 610.24414 C 543.1616 642.6304 545.0418 629.4357 529.9917 614.3856 L 283.22958 431.1259 C 268.1795 416.0758 282.24944 377.57677 314.63567 345.19054 C 347.0219 312.8043 385.52095 298.73437 400.571 313.78445 Z" fill="white"/>
+        <path d="M 400.571 313.78445 L 589.3527 563.3076 C 604.4028 578.35764 607.93405 577.8579 575.5478 610.24414 C 543.1616 642.6304 545.0418 629.4357 529.9917 614.3856 L 283.22958 431.1259 C 268.1795 416.0758 282.24944 377.57677 314.63567 345.19054 C 347.0219 312.8043 385.52095 298.73437 400.571 313.78445 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+    </g>
+  </g>
+</svg>

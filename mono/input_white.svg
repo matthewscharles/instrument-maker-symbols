@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-05-18 01:59:10 +0000</dc:date>
+  </metadata>
+  <g id="input_mono" stroke-dasharray="none" fill-opacity="1" stroke="none" fill="none" stroke-opacity="1">
+    <title>input_mono</title>
+    <g id="input_mono: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <path d="M 616.4111 350.06507 C 722.0163 455.66973 722.0163 626.8886 616.4111 732.4932 C 510.8064 838.0984 339.58758 838.0984 233.98292 732.4932 C 128.37772 626.8886 128.37772 455.66973 233.98292 350.06507 C 339.58758 244.45987 510.8064 244.45987 616.4111 350.06507" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4">
+        <path d="M 572.51804 393.9581 C 653.88165 475.3213 653.88165 607.237 572.51804 688.6002 C 491.15485 769.9638 359.23915 769.9638 277.87596 688.6002 C 196.51235 607.237 196.51235 475.3213 277.87596 393.9581 C 359.23915 312.5945 491.15485 312.5945 572.51804 393.9581" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g id="Graphic_8">
+        <ellipse cx="425.197" cy="568.6889" rx="60.5406388436123" ry="30.2703194218061" fill="white"/>
+        <ellipse cx="425.197" cy="568.6889" rx="60.5406388436123" ry="30.2703194218061" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g id="Graphic_17">
+        <path d="M 369.36526 38.697 L 481.02874 38.697 L 457 473 L 568 450 L 425.197 579.5327 L 286 440 L 389 471 Z" fill="white"/>
+        <path d="M 369.36526 38.697 L 481.02874 38.697 L 457 473 L 568 450 L 425.197 579.5327 L 286 440 L 389 471 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="28"/>
+      </g>
+    </g>
+  </g>
+</svg>
