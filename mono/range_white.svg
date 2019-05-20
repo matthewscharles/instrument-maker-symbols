@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="white">
+      <g>
+        <path d="M 2.24 0 L 0 -.84 L 0 .84 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-4 -2 6 4" markerWidth="6" markerHeight="4" color="white">
+      <g>
+        <path d="M -2.24 0 L 0 .84 L 0 -.84 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-05-20 21:39:58 +0000</dc:date>
+  </metadata>
+  <g id="range_mono" stroke-dasharray="none" stroke-opacity="1" stroke="none" fill="none" fill-opacity="1">
+    <title>range mono</title>
+    <g id="range_mono: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <path d="M 72 473.397 L 72 376.997 C 72 370.3454 76.144 364.947 81.25 364.947 C 86.356 364.947 90.5 370.3454 90.5 376.997 L 90.5 473.397 C 90.5 480.0486 86.356 485.447 81.25 485.447 C 76.144 485.447 72 480.0486 72 473.397" fill="white"/>
+        <path d="M 72 473.397 L 72 376.997 C 72 370.3454 76.144 364.947 81.25 364.947 C 86.356 364.947 90.5 370.3454 90.5 376.997 L 90.5 473.397 C 90.5 480.0486 86.356 485.447 81.25 485.447 C 76.144 485.447 72 480.0486 72 473.397 M 72 376.997 C 72 383.6486 76.144 389.047 81.25 389.047 C 86.356 389.047 90.5 383.6486 90.5 376.997" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_3">
+        <path d="M 781 473.397 L 781 376.997 C 781 370.3454 785.144 364.947 790.25 364.947 C 795.356 364.947 799.5 370.3454 799.5 376.997 L 799.5 473.397 C 799.5 480.0486 795.356 485.447 790.25 485.447 C 785.144 485.447 781 480.0486 781 473.397" fill="white"/>
+        <path d="M 781 473.397 L 781 376.997 C 781 370.3454 785.144 364.947 790.25 364.947 C 795.356 364.947 799.5 370.3454 799.5 376.997 L 799.5 473.397 C 799.5 480.0486 795.356 485.447 790.25 485.447 C 785.144 485.447 781 480.0486 781 473.397 M 781 376.997 C 781 383.6486 785.144 389.047 790.25 389.047 C 795.356 389.047 799.5 383.6486 799.5 376.997" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4">
+        <line x1="157.9" y1="418" x2="710.8988" y2="418" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      </g>
+    </g>
+  </g>
+</svg>
