@@ -19,7 +19,7 @@ Some of these can probably be borrowed from more generic symbol sets:
 
 ### Gestures
 
-- hover
+- **hover**
 - ~~copy~~
 - ~~swipe~~
 - ~~tap~~
@@ -49,9 +49,9 @@ Some of these can probably be borrowed from more generic symbol sets:
 
 - ~~no-input mixer~~
 - ~~switch~~
-- tablet
+- ~~tablet~~
 - proximity sensor
-  - theremin
+  - ~~theremin~~
   - soundbeam
   - cap sensor
 - mi:mu gloves
@@ -86,7 +86,7 @@ Some of these can probably be borrowed from more generic symbol sets:
 
 ## Misc/media
 
-- radio
+- ~~radio~~
 - tape
 - record
 
@@ -126,7 +126,7 @@ Some of these can probably be borrowed from more generic symbol sets:
 
 ## Hardware
 
-- copper tape
+- ~~copper tape~~
 - gaffer tape
 - breadboard
 - circuit
@@ -139,13 +139,13 @@ Some of these can probably be borrowed from more generic symbol sets:
   - lipo
   - ~~power bank~~
 - USB
-- wireless
-- radio
+- ~~wireless~~
+- ~~radio~~
 - ~~banana plug~~
-- sensor
+- ~~sensor~~
 - ~~arcade button~~
-- flex sensor
-- soft pot
+- ~~flex sensor~~
+- ~~soft pot~~
 - actuator
 - ~~LDR~~
 - ~~LED~~
@@ -155,7 +155,7 @@ Some of these can probably be borrowed from more generic symbol sets:
 - electric/conductive paint
 - conductive thread
 - Raspberry Pi
-- Bela
+- ~~Bela~~
 - Arduino
 - LilyPad
 - ~~Touch Board~~
@@ -187,8 +187,8 @@ Some of these can probably be borrowed from more generic symbol sets:
 - toggle
 - xlr
 - firmata
-- digital
-- analog
+- ~~digital~~
+- ~~analog~~
 - synthesiser
 - drum machine
 - accelerometer
