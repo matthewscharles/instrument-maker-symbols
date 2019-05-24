@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-05-24 13:24:01 +0000</dc:date>
+  </metadata>
+  <g id="key_2" stroke-dasharray="none" stroke-opacity="1" stroke="none" fill="none" fill-opacity="1">
+    <title>key 2</title>
+    <g id="key_2: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <path d="M 361.567 253.197 L 217.567 336.197 C 217.567 336.197 163.567 380.197 175.567 380.197 C 187.567 380.197 503.567 447.197 503.567 447.197 L 663.567 343.197 L 674.567 274.197 Z" fill="white"/>
+        <path d="M 361.567 253.197 L 217.567 336.197 C 217.567 336.197 163.567 380.197 175.567 380.197 C 187.567 380.197 503.567 447.197 503.567 447.197 L 663.567 343.197 L 674.567 274.197 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Graphic_3">
+        <path d="M 177.567 379.197 L 174.567 437.197 L 482.567 597.197 L 504.567 449.197 Z" fill="black"/>
+        <path d="M 177.567 379.197 L 174.567 437.197 L 482.567 597.197 L 504.567 449.197 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Graphic_4">
+        <path d="M 502.567 445.197 L 661.567 343.197 L 674.067 275.697 L 676.567 426.197 C 676.567 426.197 594.567 529.197 594.567 530.197 C 594.567 531.197 484.567 597.197 484.567 597.197 Z" fill="black"/>
+        <path d="M 502.567 445.197 L 661.567 343.197 L 674.067 275.697 L 676.567 426.197 C 676.567 426.197 594.567 529.197 594.567 530.197 C 594.567 531.197 484.567 597.197 484.567 597.197 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_7">
+        <line x1="663.567" y1="342.197" x2="673.9235" y2="423.1842" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_8">
+        <line x1="365.79714" y1="287.65012" x2="487.87385" y2="412.74387" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      </g>
+      <g id="Line_9">
+        <line x1="315.79714" y1="346.65012" x2="532.59686" y2="325.0592" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      </g>
+    </g>
+  </g>
+</svg>
