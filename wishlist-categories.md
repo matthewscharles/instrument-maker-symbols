@@ -239,6 +239,13 @@ Some of these can probably be borrowed from more generic symbol sets:
 - e
 - o
 
+### access
+
+- audio description
+- Braille
+- audio flyer
+- sign interpretation 
+
 ### ~~Cards from Exchanging Notes / Drake Music blog~~
 
 - ~~play: down~~
