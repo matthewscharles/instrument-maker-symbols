@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-06-05 09:56:35 +0000</dc:date>
+  </metadata>
+  <g id="resistor_mono" stroke="none" stroke-opacity="1" fill="none" stroke-dasharray="none" fill-opacity="1">
+    <title>resistor mono</title>
+    <g id="resistor_mono: Layer 1">
+      <title>Layer 1</title>
+      <g id="Line_9">
+        <path d="M 404.8372 203.03325 L 327.68803 190.52257 C 322.0305 189.60513 316.2512 191.15898 311.81654 194.78988 L 230.31688 261.5181 C 230.2977 261.53383 230.27852 261.54958 230.25938 261.56537 L 160.54914 319.07562 C 159.73986 319.74327 158.8793 320.3462 157.97542 320.87885 L 26 398.6501" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
+      </g>
+      <g id="Line_8">
+        <path d="M 717.2093 276.26455 L 782.7213 307.3339 C 792.7015 312.06707 796.9551 323.9946 792.2219 333.97482 C 791.5971 335.29243 790.82995 336.53775 789.9343 337.68855 L 730.2388 414.38914 C 729.9093 414.8126 729.5628 415.2226 729.20026 415.61817 L 552.46955 608.4572 C 552.1334 608.824 551.78374 609.1781 551.4212 609.51875 L 476 680.3952" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
+      </g>
+      <g id="Graphic_11">
+        <path d="M 413.59084 178.52 L 471.6681 163.41939 L 558.17367 166.99587 L 672.89276 203.38996 L 730.1511 270.1693 L 715.7376 297.24792 L 645.9645 309.48364 L 512.4211 283.2701 L 402.03307 213.13818 Z" fill="black"/>
+        <path d="M 413.59084 178.52 L 471.6681 163.41939 L 558.17367 166.99587 L 672.89276 203.38996 L 730.1511 270.1693 L 715.7376 297.24792 L 645.9645 309.48364 L 512.4211 283.2701 L 402.03307 213.13818 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      </g>
+      <g id="Line_12">
+        <path d="M 506 163.26455 L 470.02253 198.14427 L 469.42297 225.5516 L 474.38217 253.63397 L 480.11465 260.0034" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_14">
+        <path d="M 565.07703 172.26455 L 529.09956 207.14427 L 528.5 234.5516 L 532.2962 278.07646 L 535.52866 287.39194" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_15">
+        <path d="M 624.1541 186.26455 L 588.1766 221.14427 L 587.577 248.5516 L 591.3732 292.07646 L 594.6057 301.39194" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_16">
+        <path d="M 669.577 200.76455 L 646.9936 226.24544 L 633 258.09257 L 634.2548 287.39194 L 643.172 310.9588" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+    </g>
+  </g>
+</svg>
