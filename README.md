@@ -20,6 +20,8 @@ If you choose to download the .zip file, unzip, and go to the EN folder to acces
 
 
 ## Development
+Go to the [GitHub repository](https://github.com/matthewscharles/instrument-maker-symbols) to browse individual images, edit, and contribute.
+
 The inspiration to put this work online as a public repository comes from [Mulberry Symbols](https://mulberrysymbols.org/), an open source set of images for communication. I have applied some of their format (size, folder structure) onto my existing symbols for future compatibility, but at present this set is entirely my own work. Eventually I'd like to explore combining the sets into a more general communication aid.
 
 In practical terms, my intention is to gradually export my current set from [OmniGraffle](https://www.omnigroup.com/omnigraffle/) to SVG, and continue building a resource that I can use for the [Instrument Maker](https://github.com/matthewscharles/instrument-maker) project, as well as making these open to other applications.  I am also working on code to automatically generate communication cards and embed the symbols in websites and apps (I'm currently keeping this section under wraps while I figure out a consistent approach and remove all my local paths etc).
