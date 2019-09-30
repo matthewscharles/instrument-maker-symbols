@@ -3,7 +3,7 @@
 <svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
   <defs/>
   <metadata> Produced by OmniGraffle 7.9.4 
-    <dc:date>2019-09-29 21:46:26 +0000</dc:date>
+    <dc:date>2019-09-30 13:03:15 +0000</dc:date>
   </metadata>
   <g id="paper_circuit" stroke="none" stroke-dasharray="none" fill="none" stroke-opacity="1" fill-opacity="1">
     <title>paper circuit</title>
@@ -138,7 +138,7 @@
       </g>
       <g id="Graphic_56">
         <rect x="231.5" y="367.1825" width="135" height="20" fill="#ff914d"/>
-        <rect x="231.5" y="367.1825" width="135" height="20" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <rect x="231.5" y="367.1825" width="135" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
       </g>
       <g id="Graphic_57">
         <rect x="543.5" y="372" width="135" height="20" fill="#ff914d"/>
