@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="0 0 850.394 850.394" width="850.394" height="850.394">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-10-08 16:21:39 +0000</dc:date>
+  </metadata>
+  <g id="JST_connector" fill="none" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1" stroke="none">
+    <title>JST connector</title>
+    <g id="JST_connector: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_4">
+        <path d="M 57.71994 555.8596 L 56.56359 641.4298 L 103.9741 727 L 273.95813 648.3679 L 279.7399 585.9248 Z" fill="white"/>
+        <path d="M 57.71994 555.8596 L 56.56359 641.4298 L 103.9741 727 L 273.95813 648.3679 L 279.7399 585.9248 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+      <g id="Graphic_2">
+        <path d="M 57.50278 556.10756 L 222.7553 475.5085 L 276.488 585.6769 L 111.23548 666.2759 Z" fill="#dadada"/>
+        <path d="M 57.50278 556.10756 L 222.7553 475.5085 L 276.488 585.6769 L 111.23548 666.2759 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+      <g id="Line_5">
+        <line x1="113.22493" y1="663.4005" x2="104.7567" y2="722.9336" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Graphic_6">
+        <circle cx="141.63284" cy="593.3143" r="9.82902427258783" fill="#333"/>
+        <circle cx="141.63284" cy="593.3143" r="9.82902427258783" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_7">
+        <circle cx="206.2342" cy="548.4701" r="9.82902427258784" fill="#333"/>
+        <circle cx="206.2342" cy="548.4701" r="9.82902427258784" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_8">
+        <path d="M 326.28833 328.01536 L 289.0768 405.0796 L 295.8818 502.6691 L 468.26295 504.6013 L 514.80065 449.0934 Z" fill="#cbcbcb"/>
+        <path d="M 326.28833 328.01536 L 289.0768 405.0796 L 295.8818 502.6691 L 468.26295 504.6013 L 514.80065 449.0934 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+      <g id="Graphic_9">
+        <path d="M 325.98673 328.1483 L 509.819 324.9395 L 511.9582 447.49435 L 328.12594 450.70315 Z" fill="white"/>
+        <path d="M 325.98673 328.1483 L 509.819 324.9395 L 511.9582 447.49435 L 328.12594 450.70315 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+      <g id="Line_10">
+        <line x1="331.1442" y1="448.93795" x2="298.15686" y2="502.39216" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Graphic_11">
+        <circle cx="386.5102" cy="397.424" r="9.8290242725878" fill="#333"/>
+        <circle cx="386.5102" cy="397.424" r="9.8290242725878" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_12">
+        <circle cx="464.0109" cy="384.083" r="9.82902427258778" fill="#333"/>
+        <circle cx="464.0109" cy="384.083" r="9.82902427258778" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_13">
+        <path d="M 387.62683 387.6585 C 392.3438 351.05618 414.00145 220.79063 489.1786 155.8805 C 577.1861 79.89231 615.3409 132.36516 697.1558 129.20358 C 778.9707 126.04199 755.072 140.32471 777.966 144.72083" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+      </g>
+      <g id="Line_14">
+        <path d="M 463.93667 374.2534 C 464.1476 345.056 467.9587 257.86846 504.4485 209.41818 C 548.735 150.6156 542.8604 172.47138 620.3319 176.52374 C 697.8034 180.5761 733.2635 210.35052 777.9046 223.72204" stroke="#b1001c" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+      </g>
+      <g id="Line_15">
+        <line x1="144" y1="592" x2="145.4378" y2="540.3134" stroke="#737373" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+      <g id="Line_16">
+        <line x1="205.51529" y1="555.8596" x2="206.9531" y2="504.17303" stroke="#737373" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+    </g>
+  </g>
+</svg>
