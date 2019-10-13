@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="145 177 850.4 850.4" width="850.4" height="850.4">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-10-13 10:24:35 +0000</dc:date>
+  </metadata>
+  <g id="portamento" stroke-dasharray="none" stroke-opacity="1" fill="none" fill-opacity="1" stroke="none">
+    <title>portamento</title>
+    <g id="portamento: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_11">
+        <path d="M 343 639 L 369 569 L 407.8736 570.26964 L 407.8736 619.27736 L 371 621 L 340 695 Z" fill="lime"/>
+        <path d="M 343 639 L 369 569 L 407.8736 570.26964 L 407.8736 619.27736 L 371 621 L 340 695 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+      <g id="Graphic_12">
+        <rect x="203.87362" y="643.0635" width="136.25175" height="49.00772" fill="red"/>
+        <rect x="203.87362" y="643.0635" width="136.25175" height="49.00772" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+      <g id="Graphic_13">
+        <path d="M 408 569 L 438 513 L 474.1089 508.2 L 474.1089 557.2077 L 438 556 L 408 619 Z" fill="#ff40ff"/>
+        <path d="M 408 569 L 438 513 L 474.1089 508.2 L 474.1089 557.2077 L 438 556 L 408 619 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+      <g id="Graphic_14">
+        <path d="M 475 511 L 499 648 L 566.5264 647.1923 L 566.5264 696.2 L 501 695 L 471 558 Z" fill="red"/>
+        <path d="M 475 511 L 499 648 L 566.5264 647.1923 L 566.5264 696.2 L 501 695 L 471 558 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+      <g id="Graphic_15">
+        <path d="M 708 645 L 736 569 L 777.8736 570.26964 L 777.8736 619.27736 L 734 621 L 708 700 Z" fill="lime"/>
+        <path d="M 708 645 L 736 569 L 777.8736 570.26964 L 777.8736 619.27736 L 734 621 L 708 700 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+      <g id="Graphic_16">
+        <rect x="573.8736" y="646.7672" width="136.25175" height="49.00772" fill="red"/>
+        <rect x="573.8736" y="646.7672" width="136.25175" height="49.00772" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+      <g id="Graphic_17">
+        <path d="M 777 569 L 797 508 L 844.1089 508.2 L 844.1089 557.2077 L 801 556 L 775 621 Z" fill="#ff40ff"/>
+        <path d="M 777 569 L 797 508 L 844.1089 508.2 L 844.1089 557.2077 L 801 556 L 775 621 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+      <g id="Graphic_18">
+        <path d="M 845 506 L 875 645 L 936.5264 647.1923 L 936.5264 696.2 L 875 700 L 843 558 Z" fill="red"/>
+        <path d="M 845 506 L 875 645 L 936.5264 647.1923 L 936.5264 696.2 L 875 700 L 843 558 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+    </g>
+  </g>
+</svg>
