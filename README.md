@@ -4,9 +4,11 @@ Download an automatically generated PDF of the first entries here:  [autogenerat
 
 ## Information
 
-The idea behind this project is to provide alternative access points to topics that are sometimes overlooked in the contexts of AAC and support for people who encounter disabling barriers in traditional learning environments.
+The idea behind this project is to provide alternative access points to topics that are sometimes overlooked in an AAC context.  The collection was developed in conversation with musicians and music/sound art students over the course of a few years.
 
-I've had an interest in AAC since working with a friend on a sprawling set of collections for [Grid](https://thinksmartbox.com/) back in 2005. Ten years later, working in SEN specialist schools through [Drake Music](http://www.drakemusic.org/), I found myself in music rooms surrounded by communication symbols again. So I started sketching out my own music-based symbols to fit in with the resources the teachers were using -- bringing my own tongue in cheek DIY aesthetic.  This gradually evolved into a collection of symbols that could be imported in AAC software, as well as being printed as cue cards to signal gestures and instruments.  By popular request from students on the "hidden sounds" course at City Lit, we started incorporating a broader range of ideas and devices from a sound art context. 
+- [Read about AAC on the RCSLT website](https://www.rcslt.org/speech-and-language-therapy/clinical-information/augmentative-and-alternative-communication/#section-2)
+
+I've had an interest in AAC since working with a friend on a sprawling set of collections on [Grid](https://thinksmartbox.com/) back in 2005. Ten years later, working in SEN specialist schools through [Drake Music](http://www.drakemusic.org/), I found myself in music rooms surrounded by communication symbols again. So I started sketching out my own music-based symbols to fit in with the resources the teachers were using -- bringing my own tongue in cheek DIY aesthetic.  This gradually evolved into a collection of symbols that could be imported in AAC software, as well as being printed as cue cards to signal gestures and instruments.  By popular request from students on the "hidden sounds" course at City Lit, we started incorporating a broader range of ideas and devices from a sound art context. 
 
 The symbols were also integrated into the web interface for the [Instrument Maker](https://github.com/matthewscharles/instrument-maker) project.
 
@@ -43,5 +45,7 @@ I have started some alternative designs in black and white, and would be open to
 
 Please get in touch if you would like to contribute. An easy way to do this would be by leaving a comment or suggestion in the [issues page](https://github.com/matthewscharles/instrument-maker-symbols/issues).
 
-## Support 
-Although it isn't necessary to do so beyond the terms of the current GPL license, please consider giving credit if you use these symbols, and link back to this repository. You could also link to [Mulberry](https://mulberrysymbols.org/) to raise awareness of this Open Source approach and availability of free symbols.
+## Similar projects 
+- [Mulberry](https://mulberrysymbols.org/)
+- [Open Symbols](https://www.opensymbols.org/)
+- [The Noun Project](https://thenounproject.com/)
